@@ -1,0 +1,462 @@
+SpecCode,Species,autoctr,StockCode,PredatsRefNo,Locality,C_Code,Predatstage,PredatorI,PredatorII,PreyStage,PredatorGroup,DietP,StomachContent,PredatorName,Predatcode,AlphaCode,MaxLength,MaxLengthType,PredatTroph,PredatseTroph,PredatRef,Remarks,Entered,DateEntered,Modified,DateModified,Expert,DateChecked,TS
+5687,Abudefduf septemfasciatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5688,Abudefduf sexfasciatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5689,Abudefduf sordidus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4306,Acanthurus achilles,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1255,Acanthurus mata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4750,Acanthurus blochii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4736,Acanthurus guttatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1258,Acanthurus lineatus,1539,1275,6701,Society Is.,258,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Epinephelus merra,4923,NA,NA,NA,3.5,0.8,NA,NA,34,1998-05-11T00:00:00Z,NA,1998-05-11T00:00:00Z,NA,NA,NA
+6011,Acanthurus nigricans,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4747,Acanthurus nigricauda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4739,Acanthurus nigrofuscus,3044,4963,13550,Kona,840B,juv./adults,finfish,bony fish,juv./adults,Aulostomidae,NA,NA,Aulostomus chinensis,1309,NA,NA,NA,3.5,0.8,NA,NA,34,1997-10-28T00:00:00Z,NA,1997-10-28T00:00:00Z,NA,NA,NA
+4739,Acanthurus nigrofuscus,3045,4963,6775,"Naama Bay, Red Sea",NA,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Cephalopholis argus,6396,NA,NA,NA,3.5,0.8,NA,NA,34,1995-03-03T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+4739,Acanthurus nigrofuscus,3046,4963,6775,"Naama Bay, Red Sea",NA,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Cephalopholis miniata,6450,NA,NA,NA,3.5,0.8,NA,NA,34,1995-03-03T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4744,Acanthurus olivaceus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4742,Acanthurus pyroferus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4734,Acanthurus thompsoni,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1260,Acanthurus triostegus,1540,1277,6701,Society Is.,258,adults,finfish,bony fish,recruits/juv.,Serranidae,NA,NA,Cephalopholis argus,6396,NA,NA,NA,3.5,0.8,NA,Prey size: 2.5 cm.,34,1998-06-29T00:00:00Z,NA,1998-06-29T00:00:00Z,NA,NA,NA
+1260,Acanthurus triostegus,1541,1277,3921,Not stated.,840B,juv./adults,finfish,bony fish,juv./adults,Congridae,NA,NA,Conger cinereus,6654,NA,NA,NA,3.5,0.8,NA,NA,34,1997-02-22T00:00:00Z,NA,1997-11-16T00:00:00Z,NA,NA,NA
+1260,Acanthurus triostegus,1542,1277,275,Bikini,584,juv./adults,finfish,bony fish,juv./adults,Fistulariidae,NA,NA,Fistularia petimba,3276,NA,NA,NA,3.5,0.8,NA,NA,34,1997-11-15T00:00:00Z,NA,1997-11-15T00:00:00Z,NA,NA,NA
+1260,Acanthurus triostegus,1543,1277,6701,Bikini,258,juv./adults,finfish,bony fish,juv./adults,Lutjanidae,NA,NA,Lutjanus fulvus,262,NA,NA,NA,3.5,0.8,NA,NA,34,1998-07-10T00:00:00Z,NA,1998-10-07T00:00:00Z,NA,NA,NA
+1260,Acanthurus triostegus,1544,1277,6701,Society Is.,258,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Epinephelus merra,4923,NA,NA,NA,3.5,0.8,NA,NA,34,1998-05-11T00:00:00Z,NA,1998-05-11T00:00:00Z,NA,NA,NA
+1250,Aetobatus narinari,1537,1266,12400,Not stated.,450,juv./adults,finfish,sharks/rays,juv./adults,Carcharhinidae,NA,NA,Carcharhinus albimarginatus,858,NA,NA,NA,NA,NA,NA,NA,34,1999-06-25T00:00:00Z,NA,1999-06-25T00:00:00Z,NA,NA,NA
+4275,Aluterus scriptus,2917,4471,39061,Eastern Caribbean,052,juv./adults,finfish,bony fish,juv./adults,Coryphaenidae,NA,NA,Coryphaena hippurus,6,NA,NA,NA,NA,NA,NA,Fish sampled from commercial fishers at landing sites aroun Barbados between January 1981 and June 1982,711,2001-06-29T00:00:00Z,NA,2001-06-29T00:00:00Z,NA,NA,NA
+4275,Aluterus scriptus,4495,4471,32135,"Mid-Atlantic Bight, Virginia, 1986.",840,recruits/juv.,finfish,bony fish,recruits/juv.,Scombridae,NA,NA,Thunnus thynnus,147,NA,NA,NA,NA,NA,NA,NA,34,2002-12-13T00:00:00Z,NA,2002-12-13T00:00:00Z,NA,NA,NA
+6672,Amanses scopas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7229,Amblyeleotris fasciata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7243,Amblygobius nocturnus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7198,Amblygobius phalaena,3300,7327,35617,"northern part of Lizard Island, Great Barrier Reef, Australia",036,adults,finfish,bony fish,juv./adults,Synodontidae,NA,NA,Synodus englemani,12961,NA,8.4,SL,NA,NA,NA,SL of predator ranged from 5.6 to 11.3 cm,653,2000-12-06T00:00:00Z,NA,2000-12-06T00:00:00Z,NA,NA,NA
+4551,Amphiprion chrysopterus,3003,4736,237,Eniwetok Atoll,584,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,groupers,NA,NA,NA,NA,3.5,0.8,NA,NA,1,1993-06-21T00:00:00Z,34,1997-06-23T00:00:00Z,NA,NA,NA
+4888,Anampses caeruleopunctatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5622,Anampses melanurus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4889,Anampses meleagrides,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4893,Anampses twistii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+81,Aphareus furca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+84,Aprion virescens,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5425,Arothron hispidus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6401,Arothron meleagris,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6526,Arothron stellatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6065,Aspidontus dussumieri,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6066,Aspidontus taeniatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7247,Asterropteryx ensifera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7200,Asterropteryx semipunctata,3303,7330,6701,Society Is.,258,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Epinephelus merra,4923,NA,NA,NA,3.5,0.8,NA,NA,34,1998-05-11T00:00:00Z,NA,1998-05-11T00:00:00Z,NA,NA,NA
+58618,Asterropteryx striata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17462,Atrosalarias fuscus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7559,Atrosalarias holomelas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1309,Aulostomus chinensis,1564,1327,13550,Kona,840B,recruits/juv.,finfish,bony fish,recruits/juv.,Synodontidae,NA,NA,Saurida gracilis,4534,NA,NA,NA,3.5,0.8,NA,NA,34,1997-10-28T00:00:00Z,NA,1997-10-28T00:00:00Z,NA,NA,NA
+6026,Balistoides viridescens,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+27183,Blenniella paula,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5498,Bodianus axillaris,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7641,Bothus mancus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7282,Bryaninops tigris,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+225,Callionymus filamentosus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4355,Calotomus carolinus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5836,Cantherhines dumerilii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6635,Cantherhines pardalis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7835,Cantherhines sandwichiensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4278,Canthidermis maculata,2921,4474,234,"Western North Atlantic off the eastern U.S., north of Bermuda",NA,juv./adults,finfish,bony fish,adults,Scombridae,NA,NA,Thunnus albacares,143,NA,NA,NA,3.5,0.8,NA,NA,34,1995-03-14T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+4278,Canthidermis maculata,2922,4474,39061,Eastern Carribean,052,juv./adults,finfish,bony fish,juv./adults,Coryphaenidae,NA,NA,Coryphaena hippurus,6,NA,NA,NA,NA,NA,NA,Fish sampled from commercial fishers at landing sites aroun Barbados between January 1981 and June 1982,711,2001-06-29T00:00:00Z,NA,2001-06-29T00:00:00Z,NA,NA,NA
+7840,Canthigaster amboinensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6541,Canthigaster bennetti,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6543,Canthigaster janthinoptera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6578,Canthigaster solandri,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6544,Canthigaster valentini,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7873,Caracanthus maculatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12899,Caracanthus unipinna,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1921,Carangoides ferdau,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1909,Carangoides orthogrammus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1936,Caranx lugubris,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1906,Caranx melampygus,4817,2102,41717,"Kuchinoerabu-jima Island, southern Japan",392,juv./adults,finfish,bony fish,juv./adults,Fistulariidae,NA,NA,Fistularia commersonii,5444,NA,NA,NA,NA,NA,NA,Predator: >50 cm SL.,309,2003-09-05T00:00:00Z,NA,2003-09-08T00:00:00Z,NA,NA,NA
+861,Carcharhinus amblyrhynchos,6121,877,56922,NA,598,juv./adults,mammals,whales/dolphins,juv./adults,Delphinidae,NA,NA,Orcinus orca,NA,NA,NA,NA,NA,NA,NA,killer whale,309,2006-06-23T00:00:00Z,NA,2006-06-23T00:00:00Z,NA,NA,NA
+861,Carcharhinus amblyrhynchos,1259,877,12400,Eniwetok.,584,juv./adults,finfish,sharks/rays,recruits/juv.,Carcharhinidae,NA,NA,Carcharhinus albimarginatus,858,NA,NA,NA,NA,NA,NA,Also Ref. 6807.,34,1999-06-25T00:00:00Z,NA,2000-01-28T00:00:00Z,NA,NA,NA
+877,Carcharhinus melanopterus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5458,Centropyge bispinosa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7813,Centropyge fisheri,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5457,Centropyge flavissima,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5665,Centropyge heraldi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7814,Centropyge loriculus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5666,Paracentropyge multifasciata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6396,Cephalopholis argus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6453,Cephalopholis sexmaculata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6456,Cephalopholis urodeta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+66097,Cetoscarus ocellatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5557,Chaetodon auriga,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5559,Chaetodon bennetti,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5561,Chaetodon citrinellus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5562,Chaetodon ephippium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5565,Chaetodon lunula,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14300,Chaetodon lunulatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5567,Chaetodon mertensii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6550,Chaetodon ornatissimus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6606,Chaetodon pelewensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5572,Chaetodon quadrimaculatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5574,Chaetodon reticulatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12537,Chaetodon trichrous,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5578,Chaetodon trifascialis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5580,Chaetodon ulietensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5581,Chaetodon unimaculatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5582,Chaetodon vagabundus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+80,Chanos chanos,227,95,49,Not stated.,NA,juv./adults,finfish,bony fish,larvae,Ariidae,NA,NA,Ketengus typus,23392,NA,NA,NA,3.5,0.8,NA,NA,34,1997-03-15T00:00:00Z,NA,1997-11-15T00:00:00Z,NA,NA,NA
+80,Chanos chanos,228,95,49,Not stated.,NA,juv./adults,finfish,bony fish,larvae,Bagridae,NA,NA,Mystus gulio,5139,NA,NA,NA,3.5,0.8,NA,NA,34,1997-03-15T00:00:00Z,NA,2006-03-13T00:00:00Z,NA,NA,NA
+80,Chanos chanos,229,95,49,Not stated.,NA,juv./adults,finfish,bony fish,larvae,Carangidae,NA,NA,Caranx hippos,71,NA,NA,NA,3.5,0.8,NA,NA,3,1990-10-18T00:00:00Z,34,1997-11-15T00:00:00Z,NA,NA,NA
+80,Chanos chanos,230,95,49,Not stated.,NA,juv./adults,finfish,bony fish,larvae,Centropomidae,NA,NA,Lates calcarifer,346,NA,NA,NA,3.5,0.8,NA,NA,3,1990-10-18T00:00:00Z,34,1997-06-23T00:00:00Z,NA,NA,NA
+80,Chanos chanos,231,95,49,Not stated.,NA,juv./adults,finfish,bony fish,larvae,Chirocentridae,NA,NA,Chirocentrus dorab,6358,NA,NA,NA,3.5,0.8,NA,NA,3,1990-10-18T00:00:00Z,34,1997-06-23T00:00:00Z,NA,NA,NA
+80,Chanos chanos,232,95,49,Not stated.,NA,juv./adults,finfish,bony fish,larvae,Eleotridae,NA,NA,Butis butis,8035,NA,NA,NA,3.5,0.8,NA,NA,3,1990-10-18T00:00:00Z,34,1997-06-23T00:00:00Z,NA,NA,NA
+80,Chanos chanos,233,95,49,Not stated.,NA,juv./adults,finfish,bony fish,larvae,Elopidae,NA,NA,Elops hawaiensis,6415,NA,NA,NA,3.5,0.8,NA,NA,3,1990-10-18T00:00:00Z,34,1997-06-23T00:00:00Z,NA,NA,NA
+80,Chanos chanos,234,95,49,Not stated.,NA,juv./adults,finfish,bony fish,larvae,Engraulididae,NA,NA,Thryssa mystax,594,NA,NA,NA,3.5,0.8,NA,NA,3,1990-10-18T00:00:00Z,34,1997-06-23T00:00:00Z,NA,NA,NA
+80,Chanos chanos,235,95,49,Not stated.,NA,juv./adults,finfish,bony fish,larvae,Gobidae,NA,NA,Glossogobius giuris,4833,NA,NA,NA,3.5,0.8,NA,NA,3,1990-10-18T00:00:00Z,34,1997-06-23T00:00:00Z,NA,NA,NA
+80,Chanos chanos,236,95,49,Not stated.,NA,juv./adults,finfish,bony fish,larvae,Lactariidae,NA,NA,Lactarius lactarius,363,NA,NA,NA,3.5,0.8,NA,NA,3,1990-10-18T00:00:00Z,34,1997-06-23T00:00:00Z,NA,NA,NA
+80,Chanos chanos,237,95,49,Not stated.,NA,juv./adults,finfish,bony fish,larvae,Lutjanidae,NA,NA,Lutjanus erythropterus,1406,NA,NA,NA,3.5,0.8,NA,NA,3,1990-10-18T00:00:00Z,34,1997-06-23T00:00:00Z,NA,NA,NA
+80,Chanos chanos,238,95,49,Not stated.,NA,juv./adults,finfish,bony fish,larvae,Megalopidae,NA,NA,Megalops cyprinoides,227,NA,NA,NA,3.5,0.8,NA,NA,3,1990-10-18T00:00:00Z,34,1997-06-23T00:00:00Z,NA,NA,NA
+80,Chanos chanos,239,95,49,Not stated.,NA,juv./adults,finfish,bony fish,larvae,Plotosidae,NA,NA,Plotosus canius,8167,NA,NA,NA,3.5,0.8,NA,NA,34,1997-03-15T00:00:00Z,NA,1997-11-15T00:00:00Z,NA,NA,NA
+80,Chanos chanos,240,95,49,Not stated.,NA,juv./adults,finfish,bony fish,larvae,Polynemidae,NA,NA,Filimanus heptadactylus,13530,NA,NA,NA,3.5,0.8,NA,NA,34,1997-03-15T00:00:00Z,NA,1997-11-15T00:00:00Z,NA,NA,NA
+80,Chanos chanos,241,95,49,Not stated.,NA,juv./adults,finfish,bony fish,larvae,Sciaenidae,NA,NA,Micropogonias undulatus,408,NA,NA,NA,3.5,0.8,NA,NA,3,1990-10-18T00:00:00Z,34,1997-11-15T00:00:00Z,NA,NA,NA
+80,Chanos chanos,242,95,49,Not stated.,NA,juv./adults,finfish,bony fish,larvae,Scombridae,NA,NA,Rastrelliger kanagurta,111,NA,NA,NA,3.5,0.8,NA,NA,3,1990-10-18T00:00:00Z,34,1997-06-23T00:00:00Z,NA,NA,NA
+80,Chanos chanos,243,95,49,Not stated.,NA,juv./adults,finfish,bony fish,larvae,Scombridae,NA,NA,Scomberomorus commerson,121,NA,NA,NA,3.5,0.8,NA,NA,3,1990-10-18T00:00:00Z,34,1997-06-23T00:00:00Z,NA,NA,NA
+80,Chanos chanos,244,95,49,Not stated.,NA,juv./adults,finfish,bony fish,larvae,Serranidae,NA,NA,Epinephelus tauvina,4461,NA,NA,NA,3.5,0.8,NA,NA,3,1990-10-18T00:00:00Z,34,1997-06-23T00:00:00Z,NA,NA,NA
+80,Chanos chanos,245,95,49,Not stated.,NA,juv./adults,finfish,bony fish,larvae,Sphyraenidae,NA,NA,Sphyraena jello,4827,NA,NA,NA,3.5,0.8,NA,NA,34,1997-03-15T00:00:00Z,NA,1997-11-15T00:00:00Z,NA,NA,NA
+80,Chanos chanos,246,95,49,Not stated.,NA,juv./adults,finfish,bony fish,larvae,Theraponidae,NA,NA,Terapon jarbua,4458,NA,NA,NA,3.5,0.8,NA,NA,3,1990-10-18T00:00:00Z,34,1997-06-23T00:00:00Z,NA,NA,NA
+80,Chanos chanos,5623,95,54383,"Stn. 1, Visakhapatnam",356,juv./adults,finfish,bony fish,recruits/juv.,Terapontidae,NA,NA,Terapon jarbua,4458,NA,NA,NA,NA,NA,NA,NA,309,2005-08-12T00:00:00Z,NA,2005-08-12T00:00:00Z,NA,NA,NA
+5598,Cheilinus chlorourus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5602,Cheilinus oxycephalus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5603,Cheilinus trilobatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5604,Cheilinus undulatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5623,Cheilio inermis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5781,Cheilodipterus macrodon,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5482,Cheilodipterus quinquelineatus,3159,5757,26866,"One Tree Reef, Great Barrier Reef, 1991-1993",036,juv./adults,finfish,bony fish,adults,Lutjanidae,NA,NA,Lutjanus carponotatus,1424,NA,NA,NA,3.5,0.8,NA,NA,34,1998-06-30T00:00:00Z,NA,1998-06-30T00:00:00Z,NA,NA,NA
+12966,Cypselurus simus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5547,Chlorurus frontalis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+60479,Chlorurus microrhinos,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5556,Chlorurus sordidus,3183,5846,13201,"17 m depth, Similan Is., 2030H, March 1994",764,juv./adults,molluscs,gastropods,juv./adults,Buccinidae,NA,NA,Colubraria obscura,NA,NA,NA,NA,2.37,0.58,12692,NA,34,1998-01-19T00:00:00Z,NA,1998-01-19T00:00:00Z,NA,NA,NA
+5556,Chlorurus sordidus,3184,5846,6701,Society Is.,258,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Epinephelus merra,4923,NA,NA,NA,3.5,0.8,NA,NA,34,1998-05-11T00:00:00Z,NA,1998-05-11T00:00:00Z,NA,NA,NA
+5556,Chlorurus sordidus,5044,5846,30475,Great Barrier Reef.,036,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Plectropomus leopardus,4826,NA,NA,NA,NA,NA,NA,NA,34,2004-03-08T00:00:00Z,NA,2004-03-08T00:00:00Z,NA,NA,NA
+5668,Chromis acares,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5669,Chromis agilis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5450,Chromis atripectoralis,5048,5718,30475,Great Barrier Reef.,036,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Plectropomus leopardus,4826,NA,NA,NA,NA,NA,NA,NA,34,2004-03-08T00:00:00Z,NA,2004-03-08T00:00:00Z,NA,NA,NA
+8126,Chromis iomelas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5675,Chromis margaritifer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5678,Chromis vanderbilti,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5679,Chromis viridis,3276,5972,35617,"northern part of Lizard Island, Great Barrier Reef, Australia",036,adults,finfish,bony fish,juv./adults,Synodontidae,NA,NA,Synodus englemani,12961,NA,8.4,NA,NA,NA,NA,SL of predator ranged from 5.6 to 11.3 cm.  Name applied to <i>Chromis caerulea</i>.,653,2000-12-06T00:00:00Z,14,2013-04-26T00:00:00Z,NA,NA,NA
+5679,Chromis viridis,3277,5972,275,Not stated.,584,juv./adults,finfish,bony fish,juv./adults,Balistidae,NA,NA,Rhinecanthus aculeatus,5839,NA,NA,NA,3.5,0.8,NA,Name applied to <i>Chromis caeruleus</i>.,34,1994-07-20T00:00:00Z,14,2013-04-26T00:00:00Z,NA,NA,NA
+5679,Chromis viridis,3278,5972,275,Arno and Bikini,584,juv./adults,finfish,bony fish,juv./adults,Cirrhitidae,NA,NA,Paracirrhites forsteri,5952,NA,NA,NA,3.5,0.8,NA,Name applied to <i>Chromis caeruleus</i>.,34,1997-02-17T00:00:00Z,14,2013-04-26T00:00:00Z,NA,NA,NA
+5679,Chromis viridis,3279,5972,275,Arno and Eniwetok,584,juv./adults,finfish,bony fish,juv./adults,Pomacentridae,NA,NA,Sargocentron microstoma,5841,NA,NA,NA,3.5,0.8,NA,Name applied to <i>Chromis caeruleus</i>.,34,1997-02-12T00:00:00Z,14,2013-04-26T00:00:00Z,NA,NA,NA
+5679,Chromis viridis,3280,5972,6775,"Naama Bay, Red Sea",NA,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Cephalopholis argus,6396,NA,NA,NA,3.5,0.8,NA,Name applied to <i>Chromis caerulea</i>.,34,1995-03-03T00:00:00Z,14,2013-04-26T00:00:00Z,NA,NA,NA
+5679,Chromis viridis,3195,5972,6775,"Naama Bay, Red Sea",NA,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Cephalopholis hemistiktos,6447,NA,NA,NA,3.5,0.8,NA,NA,34,1995-03-03T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+5679,Chromis viridis,3196,5972,6775,"Naama Bay, Red Sea",NA,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Cephalopholis miniata,6450,NA,NA,NA,3.5,0.8,NA,NA,34,1995-03-03T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+5679,Chromis viridis,3281,5972,2160,Not stated.,NA,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Plectropomus leopardus,4826,NA,NA,NA,3.5,0.8,NA,Name applied to <i>Chromis caerulea</i>.,34,1994-01-28T00:00:00Z,14,2013-04-26T00:00:00Z,NA,NA,NA
+5682,Chromis xanthura,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5697,Chrysiptera brownriggii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5696,Chrysiptera glauca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5614,Cirrhilabrus exquisitus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12728,Cirrhilabrus scottorum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5830,Cirrhitichthys oxycephalus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4404,Cirripectes variolosus,2954,4599,6701,Society Is.,258,adults,finfish,bony fish,recruits/juv.,Serranidae,NA,NA,Cephalopholis argus,6396,NA,NA,NA,3.5,0.8,NA,Prey size: 3.8 cm.,34,1998-06-29T00:00:00Z,NA,1998-06-29T00:00:00Z,NA,NA,NA
+4404,Cirripectes variolosus,2955,4599,2160,Not stated.,NA,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Plectropomus leopardus,4826,NA,NA,NA,3.5,0.8,NA,NA,34,1994-01-28T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+4404,Cirripectes variolosus,2956,4599,275,Arno and Eniwetok,584,recruits/juv.,finfish,bony fish,juv./adults,Muraenidae,NA,NA,Gymnothorax flavimarginatus,5392,NA,NA,NA,3.5,0.8,NA,NA,34,1994-01-28T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+5624,Coris aygula,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5625,Coris gaimard,3186,5919,12400,Not stated.,450,juv./adults,finfish,sharks/rays,juv./adults,Carcharhinidae,NA,NA,Carcharhinus albimarginatus,858,NA,NA,NA,NA,NA,NA,NA,34,1999-06-25T00:00:00Z,NA,1999-06-25T00:00:00Z,NA,NA,NA
+5959,Corythoichthys flavofasciatus,3222,6268,6701,Society Is.,258,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Epinephelus merra,4923,NA,NA,NA,3.5,0.8,NA,NA,34,1998-05-11T00:00:00Z,NA,1998-05-11T00:00:00Z,NA,NA,NA
+6012,Ctenochaetus binotatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+59589,Ctenochaetus flavicauda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1262,Ctenochaetus striatus,1545,1279,6701,Society Is.,258,adults,finfish,bony fish,recruits/juv.,Serranidae,NA,NA,Cephalopholis argus,6396,NA,NA,NA,3.5,0.8,NA,Prey size: 2.9-5.0 cm.,34,1998-06-29T00:00:00Z,NA,1998-06-29T00:00:00Z,NA,NA,NA
+1262,Ctenochaetus striatus,1546,1279,6701,Society Is.,258,adults,finfish,bony fish,recruits/juv.,Serranidae,NA,NA,Epinephelus merra,4923,NA,NA,NA,3.5,0.8,NA,NA,34,1998-05-11T00:00:00Z,NA,1998-06-29T00:00:00Z,NA,NA,NA
+1262,Ctenochaetus striatus,1547,1279,6701,Society Is.,258,juv./adults,finfish,bony fish,juv./adults,Lutjanidae,NA,NA,Lutjanus fulvus,262,NA,NA,NA,3.5,0.8,NA,NA,34,1998-07-10T00:00:00Z,NA,1998-10-07T00:00:00Z,NA,NA,NA
+1262,Ctenochaetus striatus,1548,1279,6701,Society Is.,258,juv./adults,finfish,bony fish,juv./adults,Lutjanidae,NA,NA,Lutjanus monostigma,166,NA,NA,NA,3.5,0.8,NA,NA,34,1998-07-10T00:00:00Z,NA,1998-10-07T00:00:00Z,NA,NA,NA
+7238,Ctenogobiops feroculus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5110,Dascyllus aruanus,3096,5345,6775,"Naama Bay, Red Sea",NA,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Cephalopholis hemistiktos,6447,NA,NA,NA,3.5,0.8,NA,NA,34,1995-03-03T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+5110,Dascyllus aruanus,3097,5345,6775,"Naama Bay, Red Sea",NA,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Cephalopholis miniata,6450,NA,NA,NA,3.5,0.8,NA,NA,34,1995-03-03T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+11972,Dascyllus flavicaudus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5112,Dascyllus trimaculatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1022,Diodon hystrix,1331,1038,12370,Not stated.,NA,juv./adults,finfish,bony fish,juv./adults,Coryphaenidae,NA,NA,Coryphaena hippurus,6,NA,NA,NA,3.5,0.8,NA,NA,34,1997-01-30T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+1022,Diodon hystrix,5388,1038,51759,"Southwestern equatorial Atlantic,  October 1992-December 1999",076,juv./adults,finfish,bony fish,juv./adults,Istiophoridae,0.8,rare (1-5%),Istiophorus albicans,78,NA,NA,NA,NA,NA,NA,NA,309,2004-08-09T00:00:00Z,NA,2004-08-09T00:00:00Z,NA,NA,NA
+1022,Diodon hystrix,5400,1038,51759,"Southwestern equatorial Atlantic,  October 1992-December 1999",076,juv./adults,finfish,bony fish,juv./adults,Istiophoridae,0.1,rare (1-5%),Makaira nigricans,216,NA,NA,NA,NA,NA,NA,NA,309,2004-08-09T00:00:00Z,NA,2004-08-09T00:00:00Z,NA,NA,NA
+1022,Diodon hystrix,5378,1038,51759,"Southwestern equatorial Atlantic,  October 1992-December 1999",076,juv./adults,finfish,bony fish,juv./adults,Istiophoridae,2.2,rare (1-5%),Tetrapturus albidus,219,NA,NA,NA,NA,NA,NA,NA,309,2004-08-09T00:00:00Z,NA,2004-08-09T00:00:00Z,NA,NA,NA
+1022,Diodon hystrix,1332,1038,28119,Gulf of Mexico.,840,juv./adults,finfish,bony fish,juv./adults,Scombridae,NA,NA,Acanthocybium solandri,89,NA,NA,NA,3.5,0.8,NA,NA,34,2000-02-05T00:00:00Z,NA,2000-02-05T00:00:00Z,NA,NA,NA
+1022,Diodon hystrix,1333,1038,33,West Indies,NA,recruits/juv.,finfish,sharks/rays,juv./adults,Carcharhinidae,NA,NA,Galeocerdo cuvier,886,NA,NA,NA,NA,NA,NA,NA,34,1994-07-19T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+13764,Diplogrammus goramensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2467,Echeneis naucrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5388,Echidna nebulosa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5606,Epibulus insidiator,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5348,Epinephelus fasciatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6660,Epinephelus hexagonatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4923,Epinephelus merra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7264,Eviota infulata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6032,Exallias brevis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5444,Fistularia commersonii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5584,Forcipiger flavissimus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5585,Forcipiger longirostris,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7215,Fusigobius neophytus,3313,7354,6701,Society Is.,258,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Epinephelus merra,4923,NA,NA,NA,3.5,0.8,NA,NA,34,1998-05-11T00:00:00Z,NA,1998-05-11T00:00:00Z,NA,NA,NA
+4464,Gnathanodon speciosus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1832,Gnathodentex aureolineatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23595,Gnatholepis anjerensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5626,Gomphosus varius,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4925,Grammistes sexlineatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7880,Gymnomuraena zebra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6493,Gymnothorax buroensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6662,Gymnothorax eurostus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6495,Gymnothorax fimbriatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5392,Gymnothorax flavimarginatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6380,Gymnothorax javanicus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5394,Gymnothorax meleagris,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6395,Gymnothorax pictus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4905,Gymnothorax undulatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+65073,Halichoeres claudia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12663,Halichoeres hortulanus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5630,Halichoeres margaritaceus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5631,Halichoeres marginatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5634,Halichoeres trimaculatus,3187,5928,6701,Society Is.,258,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Epinephelus merra,4923,NA,NA,NA,3.5,0.8,NA,NA,34,1998-05-11T00:00:00Z,NA,1998-05-11T00:00:00Z,NA,NA,NA
+5635,Hemigymnus fasciatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5586,Hemitaurichthys polylepis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5588,Heniochus acuminatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5589,Heniochus chrysostomus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5590,Heniochus monoceros,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5539,Hipposcarus longiceps,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5637,Hologymnosus annulatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5638,Hologymnosus doliatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7710,Hyporhamphus affinis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5650,Labroides bicolor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5459,Labroides dimidiatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+23530,Labroides rubrolabiatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6399,Lactoria cornuta,4313,6720,44183,"40-60 degrees E, 0-10 degreesN, Equatorial zone of Indian Ocean",NA,juv./adults,finfish,bony fish,juv./adults,Scombridae,0.3,rare (1-5%),Thunnus albacares,143,NA,NA,NA,NA,NA,NA,NA,309,2003-01-18T00:00:00Z,NA,2003-01-18T00:00:00Z,NA,NA,NA
+6399,Lactoria cornuta,4312,6720,44183,"40-60 degrees E, 0-10 degreesN, Equatorial zone of Indian Ocean",NA,juv./adults,finfish,bony fish,juv./adults,Scombridae,0.4,rare (1-5%),Thunnus obesus,146,NA,NA,NA,NA,NA,NA,NA,309,2003-01-18T00:00:00Z,NA,2003-01-18T00:00:00Z,NA,NA,NA
+5683,Lepidozygus tapeinosoma,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4360,Leptoscarus vaigiensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1864,Lethrinus olivaceus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1852,Lethrinus xanthochilus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1417,Lutjanus bohar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+262,Lutjanus fulvus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+156,Lutjanus kasmira,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+166,Lutjanus monostigma,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+173,Lutjanus rivulatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4984,Macropharyngodon meleagris,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12724,Macropharyngodon ornatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5795,Malacanthus brevirostris,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+966,Melichthys niger,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5838,Melichthys vidua,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1869,Monotaxis grandoculis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5983,Mulloidichthys flavolineatus,3223,6292,3921,Not stated.,840B,juv./adults,finfish,bony fish,juv./adults,Muraenidae,NA,NA,Gymnothorax flavimarginatus,5392,NA,NA,NA,3.5,0.8,NA,NA,34,1993-09-28T00:00:00Z,34,1997-06-23T00:00:00Z,NA,NA,NA
+5984,Mulloidichthys vanicolensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7773,Myripristis amaena,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4910,Myripristis berndti,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7306,Myripristis kuntee,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5408,Myripristis murdjan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7309,Myripristis violacea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6019,Naso annulatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6020,Naso brachycentron,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6021,Naso brevirostris,4317,6335,44183,"40-60degrees E, 0-10degrees N, Equatorial zone of Indian Ocean",NA,juv./adults,finfish,bony fish,juv./adults,Scombridae,1.6,rare (1-5%),Thunnus obesus,146,NA,NA,NA,NA,NA,NA,NA,309,2003-01-18T00:00:00Z,NA,2003-01-18T00:00:00Z,NA,NA,NA
+1263,Naso hexacanthus,1549,1280,8925,Penguin Bank,840B,juv./adults,finfish,bony fish,juv./adults,Lutjanidae,NA,NA,Aprion virescens,84,NA,NA,NA,3.5,0.8,NA,NA,34,1996-12-12T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+1264,Naso lituratus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1265,Naso unicornis,1550,1282,6057,Northwestern Hawaiian Is.,840B,juv./adults,finfish,bony fish,juv./adults,Carangidae,NA,NA,Caranx melampygus,1906,NA,NA,NA,3.5,0.8,NA,NA,34,1996-12-05T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+6024,Naso vlamingii,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5895,Nebrius ferrugineus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+59777,Nectamia fusca,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+896,Negaprion acutidens,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6629,Nemateleotris magnifica,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5832,Neocirrhites armatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7310,Neoniphon argenteus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6582,Neoniphon opercularis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4911,Neoniphon sammara,3076,5144,6057,Northwestern Hawaiian Is.,840B,juv./adults,finfish,bony fish,juv./adults,Carangidae,NA,NA,Caranx melampygus,1906,NA,NA,NA,3.5,0.8,NA,NA,34,1996-12-05T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+4911,Neoniphon sammara,3077,5144,275,Arno and Bikini Atoll,584,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Epinephelus merra,4923,NA,NA,NA,3.5,0.8,NA,NA,34,1994-07-20T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5610,Novaculichthys taeniourus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1311,Odonus niger,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5766,Ostorhinchus angustatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4836,Ostorhinchus nigrofasciatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6555,Ostracion cubicus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6556,Ostracion meleagris,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5596,Oxycheilinus bimaculatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+63450,Oxycheilinus lineatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5605,Oxycheilinus unifasciatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5835,Paracirrhites arcatus,3215,6132,6701,Society Is.,258,adults,finfish,bony fish,recruits/juv.,Serranidae,NA,NA,Cephalopholis argus,6396,NA,NA,NA,3.5,0.8,NA,Prey size: 6.3 cm.,34,1998-06-29T00:00:00Z,NA,1998-06-29T00:00:00Z,NA,NA,NA
+5952,Paracirrhites forsteri,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5953,Paracirrhites hemistictus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7219,Paragobiodon echinocephalus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22476,Paragobiodon lacunicolus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22477,Paragobiodon modestus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6670,Parapercis millepunctata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10753,Parapercis multiplicata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5987,Parupeneus barberinus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5989,Parupeneus ciliatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5990,Parupeneus cyclostomus,3224,6299,6057,Northwestern Hawaiian Is.,840B,juv./adults,finfish,bony fish,juv./adults,Carangidae,NA,NA,Caranx ignobilis,1895,NA,NA,NA,3.5,0.8,NA,NA,34,1994-01-28T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+5990,Parupeneus cyclostomus,3225,6299,6057,Northwestern Hawaiian Is.,840B,juv./adults,finfish,bony fish,juv./adults,Carangidae,NA,NA,Caranx melampygus,NA,NA,NA,NA,3.5,0.8,NA,NA,34,1996-12-05T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+60849,Parupeneus insularis,3284,50622,275,Arno and Eniwetok,584,juv./adults,finfish,bony fish,juv./adults,Carangidae,NA,NA,Carangoides orthogrammus,1909,NA,NA,NA,3.5,0.8,NA,NA,34,1997-02-13T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+60849,Parupeneus insularis,3285,50622,275,Arno and Eniwetok,584,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Epinephelus fuscoguttatus,4460,NA,NA,NA,3.5,0.8,NA,NA,34,1994-07-20T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+60849,Parupeneus insularis,3286,50622,275,Arno and Bikini Atoll,584,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Epinephelus merra,4923,NA,NA,NA,3.5,0.8,NA,NA,34,1994-07-20T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+5993,Parupeneus multifasciatus,3226,6302,6057,Northwestern Hawaiian Is.,840B,juv./adults,finfish,bony fish,juv./adults,Carangidae,NA,NA,Caranx melampygus,1906,NA,NA,NA,3.5,0.8,NA,NA,34,1996-12-05T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+5994,Parupeneus pleurostigma,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6077,Petroscirtes xestus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6072,Plagiotremus tapeinosoma,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5737,Platax orbicularis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+973,Platybelone argalus argalus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1314,Platybelone argalus platyura,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5709,Plectroglyphidodon dickii,3197,6002,275,Arno and Eniwetok,584,recruits/juv.,finfish,bony fish,juv./adults,Muraenidae,NA,NA,Gymnothorax flavimarginatus,5392,NA,NA,NA,3.5,0.8,NA,NA,34,1997-02-11T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+10242,Plectroglyphidodon flaviventris,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5711,Plectroglyphidodon johnstonianus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5712,Plectroglyphidodon lacrymatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12727,Pogonoperca punctata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6416,Polydactylus sexfilis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6504,Pomacanthus imperator,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5726,Pomacentrus pavo,3204,6019,2160,Not stated.,NA,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Plectropomus leopardus,4826,NA,NA,NA,3.5,0.8,NA,NA,34,1994-01-28T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+10282,Pomachromis fuscidorsalis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5756,Pristiapogon exostigma,3206,6049,6701,Society Is.,258,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Epinephelus merra,4923,NA,NA,NA,3.5,0.8,NA,NA,34,1998-05-11T00:00:00Z,NA,1998-05-11T00:00:00Z,NA,NA,NA
+5757,Pristiapogon fraenatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5758,Pristiapogon kallopterus,3207,6051,6701,Society Is.,258,adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Epinephelus merra,4923,NA,NA,NA,3.5,0.8,NA,NA,34,1998-05-11T00:00:00Z,NA,1998-06-29T00:00:00Z,NA,NA,NA
+5758,Pristiapogon kallopterus,3208,6051,6701,Society Is.,258,adults,finfish,bony fish,recruits/juv.,Serranidae,NA,NA,Cephalopholis argus,6396,NA,NA,NA,3.5,0.8,NA,Prey size: 3.0 cm.,34,1998-06-29T00:00:00Z,NA,1998-06-29T00:00:00Z,NA,NA,NA
+5758,Pristiapogon kallopterus,3209,6051,13550,Kona,840B,juv./adults,finfish,bony fish,juv./adults,Aulostomidae,NA,NA,Aulostomus chinensis,1309,NA,NA,NA,3.5,0.8,NA,NA,34,1997-10-28T00:00:00Z,NA,1997-10-28T00:00:00Z,NA,NA,NA
+59194,Pseudanthias mooreanus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+46510,Pseudanthias olivaceus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6934,Pseudanthias pascalus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6027,Pseudobalistes flavimarginatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4466,Pseudobalistes fuscus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5616,Pseudocheilinus evanidus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5617,Pseudocheilinus hexataenia,3185,5911,6701,Society Is.,258,adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Cephalopholis argus,6396,NA,NA,NA,3.5,0.8,NA,"Prey size: 2.4-3.9 cm, no. of prey: 4.",34,1998-06-29T00:00:00Z,NA,1998-06-29T00:00:00Z,NA,NA,NA
+5618,Pseudocheilinus octotaenia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5619,Pseudocheilinus tetrataenia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5594,Pseudodax moluccanus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4849,Pseudojuloides atavai,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4851,Pseudojuloides cerasinus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4375,Ptereleotris evides,2949,4570,35617,"northern part of Lizard Island, Great Barrier Reef, Australia",036,adults,finfish,bony fish,juv./adults,Synodontidae,NA,NA,Synodus englemani,12961,NA,8.4,SL,NA,NA,NA,SL of predator ranged from 5.6 to 11.3 cm,653,2000-12-06T00:00:00Z,NA,2000-12-06T00:00:00Z,NA,NA,NA
+4378,Ptereleotris heteroptera,2950,4573,528,Not stated.,690,juv./adults,finfish,bony fish,juv./adults,Carangidae,NA,NA,Carangoides fulvoguttatus,1926,NA,NA,NA,3.5,0.8,NA,NA,14,1991-07-25T00:00:00Z,34,1997-06-23T00:00:00Z,NA,NA,NA
+4378,Ptereleotris heteroptera,2951,4573,528,Not stated.,NA,juv./adults,birds,sea birds,recruits/juv.,Laridae,NA,NA,noddy tern,NA,NA,NA,NA,3.765,0.34,12637,NA,14,1991-07-25T00:00:00Z,34,1998-02-22T00:00:00Z,NA,NA,NA
+4381,Ptereleotris microlepis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4382,Ptereleotris monoptera,2952,4577,528,Not stated.,NA,juv./adults,finfish,bony fish,recruits/juv.,Carangidae,NA,NA,Carangoides fulvoguttatus,1926,NA,NA,NA,3.5,0.8,NA,NA,14,1991-07-25T00:00:00Z,34,1997-06-23T00:00:00Z,NA,NA,NA
+939,Pterocaesio tile,1279,955,6701,Society Is.,258,adults,finfish,bony fish,recruits/juv.,Serranidae,NA,NA,Cephalopholis argus,6396,NA,NA,NA,3.5,0.8,NA,Prey size: 6.2 cm.,34,1998-06-29T00:00:00Z,NA,1998-06-29T00:00:00Z,NA,NA,NA
+4914,Pterois antennata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4913,Pterois radiata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5195,Pterois volitans,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6572,Pygoplites diacanthus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5839,Rhinecanthus aculeatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13774,Rhinecanthus lunula,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5840,Rhinecanthus rectangulus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6028,Rhinecanthus verrucosus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4907,Sargocentron caudimaculatum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4699,Sargocentron diadema,3032,4920,6775,"Naama Bay, Red Sea",NA,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Cephalopholis miniata,6450,NA,NA,NA,3.5,0.8,NA,NA,34,1995-03-03T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+4699,Sargocentron diadema,3033,4920,275,Arno and Eniwetok,584,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Epinephelus fuscoguttatus,4460,NA,NA,NA,3.5,0.8,NA,NA,34,1994-07-20T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+5841,Sargocentron microstoma,3216,6138,6701,Society Is.,258,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Epinephelus merra,4923,NA,NA,NA,3.5,0.8,NA,NA,34,1998-05-11T00:00:00Z,NA,1998-05-11T00:00:00Z,NA,NA,NA
+4906,Sargocentron punctatissimum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6507,Sargocentron spiniferum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4908,Sargocentron tiere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4534,Saurida gracilis,2995,4719,2160,Not stated.,NA,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Plectropomus leopardus,4826,NA,NA,NA,3.5,0.8,NA,NA,34,1997-11-16T00:00:00Z,NA,1997-11-16T00:00:00Z,NA,NA,NA
+4534,Saurida gracilis,5817,4719,50476,"Kane'ohe Bay, Hawai'i,1995-1998.",840B,recruits/juv.,finfish,sharks/rays,recruits/juv.,Sphyrnidae,0.62,rare (1-5%),Sphyrna lewini,912,NA,NA,NA,NA,NA,NA,NA,1408,2005-10-25T00:00:00Z,NA,2005-10-25T00:00:00Z,NA,NA,NA
+5540,Scarus altipinnis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5545,Scarus forsteni,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5546,Scarus frenatus,3180,5836,2160,Not stated.,NA,adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Plectropomus leopardus,4826,NA,NA,NA,3.5,0.8,NA,NA,34,1997-11-16T00:00:00Z,NA,1998-01-19T00:00:00Z,NA,NA,NA
+5546,Scarus frenatus,3181,5836,13201,"9 m depth, Narcondam I., Andaman Is., 2045H, February 1994",356,juv./adults,molluscs,gastropods,juv./adults,Marginellidae,NA,NA,Hydroginella caledonica,NA,NA,NA,NA,2.37,0.58,12692,NA,34,1998-01-19T00:00:00Z,NA,1998-01-19T00:00:00Z,NA,NA,NA
+5548,Scarus ghobban,3182,5838,2160,Not stated.,NA,adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Plectropomus leopardus,4826,NA,NA,NA,3.5,0.8,NA,NA,34,1994-01-28T00:00:00Z,NA,1997-11-16T00:00:00Z,NA,NA,NA
+4970,Scarus globiceps,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5550,Scarus niger,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5551,Scarus oviceps,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5553,Scarus psittacus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5555,Scarus rubroviolaceus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4975,Scarus schlegeli,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6438,Scarus tricolor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1951,Scomberoides lysan,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4921,Scorpaenopsis diabolus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+56815,Scorpaenopsis papuensis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7450,Scuticaria tigrina,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16869,Sebastapistes tinkhami,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4614,Siganus argenteus,3006,4801,6701,Society Is.,258,juv./adults,finfish,bony fish,recruits/juv.,Serranidae,NA,NA,Epinephelus merra,4923,NA,NA,NA,3.5,0.8,NA,NA,34,1998-05-12T00:00:00Z,NA,1998-12-05T00:00:00Z,NA,NA,NA
+4457,Siganus spinus,2967,4655,1419,Not stated..,NA,juv./adults,finfish,bony fish,larvae,Scombridae,NA,NA,tuna,NA,NA,NA,NA,3.5,0.8,NA,NA,14,1991-09-16T00:00:00Z,34,1997-06-23T00:00:00Z,NA,NA,NA
+1235,Sphyraena barracuda,1529,1251,39061,Eastern Caribbean,052,juv./adults,finfish,bony fish,juv./adults,Coryphaenidae,NA,NA,Coryphaena hippurus,6,NA,NA,NA,NA,NA,NA,Fish sampled from commercial fishers at landing sites aroun Barbados between January 1981 and June 1982,711,2001-06-29T00:00:00Z,NA,2001-06-29T00:00:00Z,NA,NA,NA
+7939,Sphyraena qenie,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4340,Stegastes albifasciatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4347,Stegastes fasciolatus,2941,4532,6057,Northwestern Hawaiian Is.,840B,juv./adults,finfish,bony fish,juv./adults,Carangidae,NA,NA,Caranx melampygus,1906,NA,NA,NA,3.5,0.8,NA,NA,34,1996-12-05T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+4347,Stegastes fasciolatus,2942,4532,13550,Kona,840B,juv./adults,finfish,bony fish,juv./adults,Labridae,NA,NA,Oxycheilinus unifasciatus,5605,NA,NA,NA,3.5,0.8,NA,NA,34,1997-10-28T00:00:00Z,NA,1997-10-28T00:00:00Z,NA,NA,NA
+4347,Stegastes fasciolatus,2943,4532,275,Arno and Bikini,584,juv./adults,finfish,bony fish,juv./adults,Muraenidae,NA,NA,Gymnothorax rueppelliae,5396,NA,NA,NA,3.5,0.8,NA,NA,34,1994-01-28T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+4352,Stegastes nigricans,2944,4537,6701,Society Is.,258,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Epinephelus merra,4923,NA,NA,NA,3.5,0.8,NA,NA,34,1998-05-11T00:00:00Z,NA,1998-05-11T00:00:00Z,NA,NA,NA
+4351,Stegastes punctatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5640,Stethojulis bandanensis,3189,5934,35617,"northern part of Lizard Island, Great Barrier Reef, Australia",036,adults,finfish,bony fish,juv./adults,Synodontidae,NA,NA,Synodus englemani,12961,NA,8.4,SL,NA,NA,NA,SL of predator ranged from 5.6 to 11.3 cm,653,2000-12-06T00:00:00Z,NA,2000-12-06T00:00:00Z,NA,NA,NA
+6029,Sufflamen bursa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5842,Sufflamen chrysopterum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5825,Synanceia verrucosa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7981,Neosynchiropus ocellatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7292,Synodus binotatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12620,Synodus dermatogenys,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+7943,Synodus jaculum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5398,Synodus variegatus,3137,5657,6775,"Naama Bay, Red Sea",NA,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Cephalopholis argus,6396,NA,NA,NA,3.5,0.8,NA,NA,34,1995-03-03T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+5398,Synodus variegatus,3138,5657,2160,Not stated.,NA,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Plectropomus leopardus,4826,NA,NA,NA,3.5,0.8,NA,NA,34,1994-01-28T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+5398,Synodus variegatus,3139,5657,6701,Society Is.,258,juv./adults,finfish,bony fish,recruits/juv.,Serranidae,NA,NA,Epinephelus merra,4923,NA,NA,NA,3.5,0.8,NA,NA,34,1998-05-11T00:00:00Z,NA,1998-05-11T00:00:00Z,NA,NA,NA
+5824,Taenianotus triacanthus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5642,Thalassoma amblycephalum,3191,5936,35617,"northern part of Lizard Island, Great Barrier Reef, Australia",036,adults,finfish,bony fish,adults,Synodontidae,NA,NA,Synodus englemani,12961,NA,8.4,SL,NA,NA,NA,SL of predator ranged from 5.6 to 11.3 cm,653,2000-12-06T00:00:00Z,NA,2000-12-06T00:00:00Z,NA,NA,NA
+5643,Thalassoma hardwicke,5042,5937,30475,Great Barrier Reef.,036,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Plectropomus leopardus,4826,NA,NA,NA,NA,NA,NA,NA,34,2004-03-08T00:00:00Z,NA,2004-03-08T00:00:00Z,NA,NA,NA
+5646,Thalassoma lutescens,3193,5940,13550,Kona,840B,recruits/juv.,finfish,bony fish,recruits/juv.,Synodontidae,NA,NA,Synodus variegatus,5398,NA,NA,NA,3.5,0.8,NA,Predator size: 16.6 cm.,34,1997-10-28T00:00:00Z,NA,1997-10-28T00:00:00Z,NA,NA,NA
+5647,Thalassoma purpureum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5648,Thalassoma quinquevittatum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5649,Thalassoma trilobatum,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+907,Triaenodon obesus,1275,923,6807,NA,NA,juv./adults,finfish,sharks/rays,juv./adults,Carcharhinidae,NA,NA,Galeocerdo cuvier,886,NA,NA,NA,NA,NA,NA,Used by J. Randall as bait to catch <i>G. cuvier</i>.,34,2000-01-28T00:00:00Z,NA,2000-01-28T00:00:00Z,NA,NA,NA
+907,Triaenodon obesus,1276,923,6807,"Kusaie, Caroline Is., 12 m depth, July 1973.",NA,juv./adults,finfish,bony fish,recruits/juv.,Serranidae,NA,NA,Epinephelus lanceolatus,6468,NA,NA,NA,3.5,0.8,NA,Prey size: 80 cm TL.,34,2000-01-28T00:00:00Z,NA,2000-01-28T00:00:00Z,NA,NA,NA
+977,Tylosurus crocodilus,1302,993,33,"Dry Tortugas, Florida",840,juv./adults,finfish,bony fish,juv./adults,Scombridae,NA,NA,Euthynnus alletteratus,97,NA,NA,NA,3.5,0.8,NA,NA,34,1997-01-29T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+6575,Valenciennea strigata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6478,Variola albimarginata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5354,Variola louti,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4870,Wetmorella nigropinnata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5950,Zanclus cornutus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+6018,Zebrasoma flavescens,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5951,Zebrasoma scopas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+1266,Zebrasoma velifer,1551,1283,6775,"Naama Bay, Red Sea",NA,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Cephalopholis argus,6396,NA,NA,NA,3.5,0.8,NA,NA,34,1995-03-03T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4404,Cirripectes variolosus,2954,4599,6701,Society Is.,258,adults,finfish,bony fish,recruits/juv.,Serranidae,NA,NA,Cephalopholis argus,6396,NA,NA,NA,3.5,0.8,NA,Prey size: 3.8 cm.,34,1998-06-29T00:00:00Z,NA,1998-06-29T00:00:00Z,NA,NA,NA
+4404,Cirripectes variolosus,2955,4599,2160,Not stated.,NA,juv./adults,finfish,bony fish,juv./adults,Serranidae,NA,NA,Plectropomus leopardus,4826,NA,NA,NA,3.5,0.8,NA,NA,34,1994-01-28T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+4404,Cirripectes variolosus,2956,4599,275,Arno and Eniwetok,584,recruits/juv.,finfish,bony fish,juv./adults,Muraenidae,NA,NA,Gymnothorax flavimarginatus,5392,NA,NA,NA,3.5,0.8,NA,NA,34,1994-01-28T00:00:00Z,NA,1997-06-23T00:00:00Z,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22462,Gobiodon quinquestrigatus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5618,Pseudocheilinus octotaenia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

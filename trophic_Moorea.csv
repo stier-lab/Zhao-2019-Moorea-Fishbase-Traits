@@ -1,0 +1,395 @@
+SpecCode,Species,MaxLengthTL,TLObserved,Troph,seTroph,TrophObserved,TrophPredicted,seTrophPredicted,a,sd_log10a,b,sd_b,Method_ab,K,SD_logK,Linf,SD_logLinf,LengthType,ComDepthMin,ComDepthMax,ComDepMinObserved,ComDepMaxObserved,DepthMin,DepthMax,DepthMinEstimate,DepthMaxEstimate,LastModified,MaxLengthSL,KObserved
+5687,Abudefduf septemfasciatus,23,0,3.01,0.38,0,NA,NA,0.0199526,0.191,3,0.0884,LWR estimates for this Genus-body shape,0.32,NA,NA,NA,NA,0,2,0,0,0,3,0,0,2015-05-08T00:00:00Z,17.4,0
+5688,Abudefduf sexfasciatus,19,0,2.7,0.3,0,NA,NA,0.0229087,0.118,3.04,0.0723,LWR estimates for species & Genus-body shape,0.38,NA,NA,NA,NA,3,11,0,0,1,20,0,0,2015-05-08T00:00:00Z,14.15,0
+5689,Abudefduf sordidus,24,0,2.71,0.31,0,NA,NA,0.0194984,0.159,3,0.0865,LWR estimates for species & Genus-body shape,0.3,NA,NA,NA,NA,0,2,0,0,0,3,0,0,2015-05-08T00:00:00Z,19.7,0
+4306,Acanthurus achilles,24,0,2,0,0,NA,NA,NA,NA,NA,NA,NA,0.58,NA,NA,NA,NA,0,4,0,0,0,10,0,0,2015-05-08T00:00:00Z,20.06,0
+1255,Acanthurus mata,50,0,2.53,0.25,0,NA,NA,0.0204174,0.123,3.02,0.0811,LWR estimates for species & Subfamily-body shape,0.22,NA,NA,NA,NA,5,45,0,0,5,100,0,0,2015-05-08T00:00:00Z,41.12,0
+4750,Acanthurus blochii,54.9,0,2,0,0,NA,NA,0.0269153,0.0986,3.01,0.0662,LWR estimates for species & Genus-body shape,0.25,NA,NA,NA,NA,3,9,0,0,2,15,0,0,2015-05-08T00:00:00Z,45,0
+4736,Acanthurus guttatus,26,0,2,0,0,NA,NA,NA,NA,NA,NA,NA,0.54,NA,NA,NA,NA,1,5,0,0,0,8,0,0,2015-05-08T00:00:00Z,21.06,0
+1258,Acanthurus lineatus,38,0,2,0,0,NA,NA,0.0229087,0.093,2.99,0.0633,LWR estimates for species & Genus-body shape,0.57,NA,NA,NA,NA,1,3,0,0,0,15,0,0,2015-05-08T00:00:00Z,28.48,0
+6011,Acanthurus nigricans,21.3,0,2,0,0,NA,NA,0.0295121,0.113,2.93,0.0725,LWR estimates for species & Genus-body shape,0.28,NA,NA,NA,NA,2,67,0,0,1,67,0,0,2015-05-08T00:00:00Z,17.1,0
+4747,Acanthurus nigricauda,40,0,2.99,0.4,0,NA,NA,0.0269153,0.0468,2.96,0.0229,LWR estimates for this species,0.6,NA,NA,NA,NA,2,15,0,0,1,30,0,0,2015-05-08T00:00:00Z,28.46,0
+4739,Acanthurus nigrofuscus,21,0,2,0,0,NA,NA,0.0269153,0.0396,2.97,0.0219,LWR estimates for this species,0.79,NA,NA,NA,NA,2,25,0,0,0,25,0,0,2015-05-08T00:00:00Z,15.97,0
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4744,Acanthurus olivaceus,35,0,2.26,0.17,0,NA,NA,0.0281838,0.102,3.05,0.0678,LWR estimates for species & Genus-body shape,1.07,NA,NA,NA,NA,9,46,0,0,3,46,0,0,2015-05-08T00:00:00Z,26.07,0
+4742,Acanthurus pyroferus,29,0,2,0,0,NA,NA,NA,NA,NA,NA,NA,0.42,NA,NA,NA,NA,5,40,0,0,4,60,0,0,2015-05-08T00:00:00Z,20.51,0
+4734,Acanthurus thompsoni,27,0,3.64,0.41,0,NA,NA,NA,NA,NA,NA,NA,0.52,NA,NA,NA,NA,5,70,0,0,4,119,0,0,2015-05-08T00:00:00Z,20.19,0
+1260,Acanthurus triostegus,27,0,2.78,0.35,0,NA,NA,0.0275423,0.0906,2.97,0.0621,LWR estimates for species & Genus-body shape,0.79,NA,NA,NA,NA,0,90,0,0,0,90,0,0,2015-05-08T00:00:00Z,22.57,0
+1250,Aetobatus narinari,152.8,0,4.17,0.128,0,NA,NA,NA,NA,NA,NA,NA,0.19,NA,NA,NA,NA,1,41,0,0,1,80,0,0,2015-05-08T00:00:00Z,125.3,0
+4275,Aluterus scriptus,110,0,2.81,0.37,0,NA,NA,NA,NA,NA,NA,NA,0.08,NA,NA,NA,NA,3,20,0,0,3,120,0,0,2015-05-08T00:00:00Z,90.2,0
+6672,Amanses scopas,20,0,2.86,0.4,0,NA,NA,0.020893,0.166,2.92,0.0929,LWR estimates for this Family-body shape,0.38,NA,NA,NA,NA,4,11,0,0,3,18,0,0,2015-05-08T00:00:00Z,16.4,0
+7229,Amblyeleotris fasciata,8,0,3.29,0.3,0,NA,NA,0.00549541,0.183,3.25,0.0983,LWR estimates for this Subfamily-body shape,0.73,NA,NA,NA,NA,5,13,0,0,4,20,0,0,2015-05-08T00:00:00Z,5.93,0
+7243,Amblygobius nocturnus,12.2,0,2.71,0.24,0,NA,NA,0.00891251,0.168,3.07,0.0889,LWR estimates for this Subfamily-body shape,0.49,NA,NA,NA,NA,5,17,0,0,3,30,0,0,2015-05-08T00:00:00Z,10,0
+7198,Amblygobius phalaena,15,0,2.74,0.18,0,NA,NA,0.00758578,0.134,3.01,0.0799,LWR estimates for species & Subfamily-body shape,0.41,NA,NA,NA,NA,2,20,0,0,2,20,0,0,2015-05-08T00:00:00Z,11.64,0
+4551,Amphiprion chrysopterus,17,0,2.17,0,0,NA,NA,NA,NA,NA,NA,NA,0.81,NA,NA,NA,NA,5,21,0,0,1,40,0,0,2015-05-08T00:00:00Z,12.57,0
+4888,Anampses caeruleopunctatus,42,0,3.37,0.42,0,NA,NA,0.01,0.161,3.06,0.0889,LWR estimates for this Subfamily-body shape,0.2,NA,NA,NA,NA,5,17,0,0,3,30,0,0,2015-05-08T00:00:00Z,36.68,0
+5622,Anampses melanurus,12,0,3.35,0.41,0,NA,NA,NA,NA,NA,NA,NA,0.65,NA,NA,NA,NA,17,28,0,0,15,40,0,0,2015-05-08T00:00:00Z,10.65,0
+4889,Anampses meleagrides,22,0,3.5,0.37,0,NA,NA,0.01,0.161,3.06,0.0889,LWR estimates for this Subfamily-body shape,0.37,NA,NA,NA,NA,5,50,0,0,3,60,0,0,2015-05-08T00:00:00Z,18.53,0
+4893,Anampses twistii,18,0,3.5,0.37,0,NA,NA,NA,NA,NA,NA,NA,0.44,NA,NA,NA,NA,7,18,0,0,5,30,0,0,2015-05-08T00:00:00Z,14.77,0
+81,Aphareus furca,70,0,4.14,0.73,0,NA,NA,NA,NA,NA,NA,NA,0.22,NA,NA,NA,NA,13,60,0,0,1,122,0,0,2015-05-08T00:00:00Z,57.83,0
+84,Aprion virescens,112,0,4.28,0.418,0,NA,NA,0.0134896,0.0445,2.95,0.0296,LWR estimates for this species,0.22,NA,NA,NA,NA,19,86,0,0,0,180,0,0,2015-05-08T00:00:00Z,90.7,0
+5425,Arothron hispidus,50,0,3.42,0.48,0,NA,NA,0.0371535,0.116,2.87,0.0727,LWR estimates for species & Subfamily-body shape,0.35,NA,NA,NA,NA,6,26,0,0,1,50,0,0,2015-05-08T00:00:00Z,42.06,0
+6401,Arothron meleagris,50,0,3.42,0.48,0,NA,NA,0.0269153,0.177,2.87,0.0935,LWR estimates for this Subfamily-body shape,0.35,NA,NA,NA,NA,8,37,0,0,1,73,0,0,2015-05-08T00:00:00Z,41,0
+6526,Arothron stellatus,120,0,3.65,0.22,0,NA,NA,0.0446684,0.115,2.85,0.0735,LWR estimates for species & Subfamily-body shape,0.16,NA,NA,NA,NA,8,31,0,0,3,58,0,0,2015-05-08T00:00:00Z,97.03,0
+6065,Aspidontus dussumieri,12,0,2,0,0,NA,NA,0.00380189,0.202,3.15,0.111,LWR estimates for this Subfamily-body shape,0.58,NA,NA,NA,NA,3,11,0,0,1,20,0,0,2015-05-08T00:00:00Z,10.52,0
+6066,Aspidontus taeniatus,11.5,0,3.75,0.51,0,NA,NA,0.00380189,0.202,3.15,0.111,LWR estimates for this Subfamily-body shape,0.6,NA,NA,NA,NA,3,14,0,0,1,25,0,0,2015-05-08T00:00:00Z,10.07,0
+7247,Asterropteryx ensifera,3.66,0,3.4,0.45,0,NA,NA,0.0040738,0.2,3.1,0.112,LWR estimates for this Subfamily-body shape,1.5,NA,NA,NA,NA,9,24,0,0,6,40,0,0,2015-05-08T00:00:00Z,3,0
+7200,Asterropteryx semipunctata,6.5,0,2.36,0,0,NA,NA,NA,NA,NA,NA,NA,0.88,NA,NA,NA,NA,3,11,0,0,1,20,0,0,2015-05-08T00:00:00Z,4.82,0
+58618,Asterropteryx striata,2.83,0,3.4,0.45,0,NA,NA,0.0040738,0.2,3.1,0.112,LWR estimates for this Subfamily-body shape,1.91,NA,NA,NA,NA,8,19,0,0,6,30,0,0,2015-05-08T00:00:00Z,2.32,0
+17462,Atrosalarias fuscus,14.5,0,2,0,0,NA,NA,0.011749,0.141,3.05,0.0893,LWR estimates for species & Subfamily-body shape,0.48,NA,NA,NA,NA,3,8,0,0,2,12,0,0,2015-05-08T00:00:00Z,10.67,0
+7559,Atrosalarias holomelas,14.5,0,2,0,0,NA,NA,0.0112202,0.179,3.01,0.0973,LWR estimates for this Subfamily-body shape,0.48,NA,NA,NA,NA,1,8,0,0,0,15,0,0,2015-05-08T00:00:00Z,10.52,0
+1309,Aulostomus chinensis,80,0,4.24,0.74,0,NA,NA,0.00223872,0.205,3.14,0.112,LWR estimates for this Family-body shape,NA,NA,NA,NA,NA,15,61,0,0,3,122,0,0,2015-05-08T00:00:00Z,75.28,0
+6026,Balistoides viridescens,75,0,3.33,0.44,0,NA,NA,0.0275423,0.116,2.98,0.0752,LWR estimates for species & Family-body shape,0.16,NA,NA,NA,NA,6,26,0,0,1,50,0,0,2015-05-08T00:00:00Z,61.5,0
+27183,Blenniella paula,15.98,0,3.05,0.4,0,NA,NA,0.00831764,0.175,3,0.0989,LWR estimates for this Subfamily-body shape,0.44,NA,NA,NA,NA,0,1,0,0,0,2,0,0,2015-05-08T00:00:00Z,13.1,0
+5498,Bodianus axillaris,24.4,0,3.42,0.45,0,NA,NA,0.0123027,0.178,3.04,0.101,LWR estimates for this Subfamily-body shape,0.34,NA,NA,NA,NA,2,40,0,0,2,100,0,0,2015-05-08T00:00:00Z,20,0
+7641,Bothus mancus,27.78,0,3.6,0.45,0,NA,NA,0.0109648,0.187,3.02,0.0995,LWR estimates for this Family-body shape,0.33,NA,NA,NA,NA,18,74,0,0,3,150,0,0,2015-05-08T00:00:00Z,22.78,0
+7282,Bryaninops tigris,2.99,0,3.4,0.45,0,NA,NA,0.0040738,0.2,3.1,0.112,LWR estimates for this Subfamily-body shape,1.81,NA,NA,NA,NA,18,35,0,0,15,53,0,0,2015-05-08T00:00:00Z,2.45,0
+225,Callionymus filamentosus,20,0,3.27,0.39,0,NA,NA,0.0147911,0.125,2.79,0.0767,LWR estimates for species & Genus-body shape,0.48,NA,NA,NA,NA,5,100,0,0,2,350,0,0,2015-05-08T00:00:00Z,14.27,0
+4355,Calotomus carolinus,54,0,2,0,0,NA,NA,0.0114815,0.116,3.11,0.0775,LWR estimates for species & Subfamily-body shape,0.34,NA,NA,NA,NA,8,36,0,0,1,71,0,0,2015-05-08T00:00:00Z,44.28,0
+5836,Cantherhines dumerilii,38,0,3.07,0.33,0,NA,NA,0.0245471,0.126,2.92,0.0808,LWR estimates for species & Family-body shape,0.21,NA,NA,NA,NA,6,35,0,0,6,70,0,0,2015-05-08T00:00:00Z,31.16,0
+6635,Cantherhines pardalis,25,0,3.5,0.37,0,NA,NA,0.0165959,0.123,2.92,0.0797,LWR estimates for species & Family-body shape,0.31,NA,NA,NA,NA,4,12,0,0,2,20,0,0,2015-05-08T00:00:00Z,21.29,0
+7835,Cantherhines sandwichiensis,19.3,0,2.66,0.21,0,NA,NA,0.020893,0.166,2.92,0.0929,LWR estimates for this Family-body shape,0.4,NA,NA,NA,NA,9,38,0,0,2,73,0,0,2015-05-08T00:00:00Z,15.83,0
+4278,Canthidermis maculata,50,0,3.47,0.45,0,NA,NA,0.025704,0.158,2.96,0.0888,LWR estimates for this Family-body shape,0.23,NA,NA,NA,NA,12,55,0,0,1,110,0,0,2015-05-08T00:00:00Z,41,0
+7840,Canthigaster amboinensis,15,0,2.74,0.245,0,NA,NA,0.0223872,0.201,2.96,0.11,LWR estimates for this Subfamily-body shape,1.07,NA,NA,NA,NA,2,9,0,0,1,16,0,0,2015-05-08T00:00:00Z,12.3,0
+6541,Canthigaster bennetti,10,0,2.54,0.2,0,NA,NA,0.0223872,0.201,2.96,0.11,LWR estimates for this Subfamily-body shape,1.56,NA,NA,NA,NA,2,9,0,0,1,15,0,0,2015-05-08T00:00:00Z,8.2,0
+6543,Canthigaster janthinoptera,9,0,3.07,0.321,0,NA,NA,0.0223872,0.201,2.96,0.11,LWR estimates for this Subfamily-body shape,1.72,NA,NA,NA,NA,4,16,0,0,1,30,0,0,2015-05-08T00:00:00Z,7.38,0
+6578,Canthigaster solandri,11.5,0,3.03,0.36,0,NA,NA,0.0213796,0.157,2.96,0.0951,LWR estimates for species & Subfamily-body shape,1.37,NA,NA,NA,NA,12,24,0,0,10,36,0,0,2015-05-08T00:00:00Z,9.43,0
+6544,Canthigaster valentini,11,0,2.84,0.3,0,NA,NA,0.0263027,0.145,2.91,0.0915,LWR estimates for species & Subfamily-body shape,1.43,NA,NA,NA,NA,6,29,0,0,1,55,0,0,2015-05-08T00:00:00Z,8.64,0
+7873,Caracanthus maculatus,5,0,3.31,0.46,0,NA,NA,NA,NA,NA,NA,NA,0.86,NA,NA,NA,NA,4,10,0,0,3,15,0,0,2015-05-08T00:00:00Z,4.4,0
+12899,Caracanthus unipinna,5,0,3.6,0.59,0,NA,NA,0.0199526,0.175,3.01,0.0905,all LWR estimates for this body shape,0.86,NA,NA,NA,NA,2,9,0,0,1,15,0,0,2015-05-08T00:00:00Z,4,0
+1921,Carangoides ferdau,70,0,4.31,0.481,0,NA,NA,0.0295121,0.0871,2.93,0.0607,LWR estimates for species & Genus-body shape,0.21,NA,NA,NA,NA,7,31,0,0,1,60,0,0,2015-05-08T00:00:00Z,57.9,0
+1909,Carangoides orthogrammus,75,0,4.27,0.47,0,NA,NA,0.0186209,0.0932,2.97,0.0644,LWR estimates for species & Genus-body shape,0.27,NA,NA,NA,NA,20,83,0,0,3,168,0,0,2015-05-08T00:00:00Z,61.5,0
+1936,Caranx lugubris,100,0,4.5,0.8,0,NA,NA,0.0229087,0.047,2.94,0.0172,LWR estimates for this species,0.12,NA,NA,NA,NA,24,65,0,0,12,354,0,0,2015-05-08T00:00:00Z,89.57,0
+1906,Caranx melampygus,129.87,0,4.49,0.79,0,NA,NA,0.0229087,0.0368,2.95,0.0166,LWR estimates for this species,0.21,NA,NA,NA,NA,20,91,0,0,0,190,0,0,2015-05-08T00:00:00Z,108.84,0
+861,Carcharhinus amblyrhynchos,255,0,4.11,0.49,0,NA,NA,0.00537032,0.12,3.12,0.073,LWR estimates for species & Genus-body shape,0.29,NA,NA,NA,NA,0,280,0,0,0,1000,0,0,2015-05-08T00:00:00Z,209.1,0
+877,Carcharhinus melanopterus,200,0,3.94,0.41,0,NA,NA,NA,NA,NA,NA,NA,0.14,NA,NA,NA,NA,25,48,0,0,20,75,0,0,2015-05-08T00:00:00Z,164,0
+5458,Centropyge bispinosa,10,0,2.75,0.29,0,NA,NA,0.0323594,0.109,2.75,0.074,LWR estimates for species & Family-body shape,0.88,NA,NA,NA,NA,8,32,0,0,3,60,0,0,2015-05-08T00:00:00Z,7.98,0
+7813,Centropyge fisheri,7.5,0,2.84,0.33,0,NA,NA,0.0263027,0.119,2.81,0.079,LWR estimates for species & Family-body shape,1.15,NA,NA,NA,NA,24,53,0,0,10,95,0,0,2015-05-08T00:00:00Z,6.38,0
+5457,Centropyge flavissima,14,0,2.75,0.33,0,NA,NA,0.0301995,0.157,2.89,0.0918,LWR estimates for this Family-body shape,0.64,NA,NA,NA,NA,7,27,0,0,3,50,0,0,2015-05-08T00:00:00Z,10.81,0
+5665,Centropyge heraldi,12,0,2.83,0.33,0,NA,NA,NA,NA,NA,NA,NA,0.74,NA,NA,NA,NA,13,48,0,0,5,90,0,0,2015-05-08T00:00:00Z,10.21,0
+7814,Centropyge loriculus,15,0,2.78,0.31,0,NA,NA,0.0301995,0.157,2.89,0.0918,LWR estimates for this Family-body shape,0.6,NA,NA,NA,NA,19,38,0,0,15,60,0,0,2015-05-08T00:00:00Z,11.83,0
+5666,Paracentropyge multifasciata,12,0,2.79,0.33,0,NA,NA,0.0301995,0.157,2.89,0.0918,LWR estimates for this Family-body shape,0.74,NA,NA,NA,NA,20,70,0,0,7,70,0,0,2015-05-08T00:00:00Z,9.46,0
+6396,Cephalopholis argus,60,0,4.32,0.73,0,NA,NA,0.0102329,0.0923,3.07,0.0615,LWR estimates for species & Genus-body shape,0.19,NA,NA,NA,NA,1,15,0,0,1,40,0,0,2015-05-08T00:00:00Z,50.37,0
+6453,Cephalopholis sexmaculata,50,0,4,0.66,0,NA,NA,NA,NA,NA,NA,NA,0.22,NA,NA,NA,NA,21,76,0,0,6,150,0,0,2015-05-08T00:00:00Z,39.78,0
+6456,Cephalopholis urodeta,28,0,4.02,0.69,0,NA,NA,0.0120226,0.109,3.04,0.0691,LWR estimates for species & Genus-body shape,1.39,NA,NA,NA,NA,3,15,0,0,1,60,0,0,2015-05-08T00:00:00Z,23.82,0
+66097,Cetoscarus ocellatus,97.6,0,2,0,0,NA,NA,0.0141254,0.175,3.04,0.091,LWR estimates for this Subfamily-body shape,0.2,NA,NA,NA,NA,4,16,0,0,1,30,0,0,2015-05-08T00:00:00Z,80,0
+5557,Chaetodon auriga,23,0,3.69,0.3,0,NA,NA,0.0269153,0.0948,2.98,0.0656,LWR estimates for species & Genus-body shape,1.5,NA,NA,NA,NA,7,31,0,0,1,60,0,0,2015-05-08T00:00:00Z,19.51,0
+5559,Chaetodon bennetti,20,0,3.06,0.46,0,NA,NA,0.0275423,0.109,3,0.0725,LWR estimates for species & Genus-body shape,0.92,NA,NA,NA,NA,4,16,0,0,1,30,0,0,2015-05-08T00:00:00Z,16.6,0
+5561,Chaetodon citrinellus,13,0,3.52,0.3,0,NA,NA,0.0251189,0.0964,2.95,0.0659,LWR estimates for species & Genus-body shape,2.04,NA,NA,NA,NA,1,5,0,0,1,36,0,0,2015-05-08T00:00:00Z,10.62,0
+5562,Chaetodon ephippium,30,0,3.01,0.43,0,NA,NA,0.025704,0.105,3.02,0.0701,LWR estimates for species & Genus-body shape,0.63,NA,NA,NA,NA,3,16,0,0,0,30,0,0,2015-05-08T00:00:00Z,24.14,0
+5565,Chaetodon lunula,20,0,3.7,0.14,0,NA,NA,0.025704,0.155,3.01,0.0844,LWR estimates for this Genus-body shape,0.92,NA,NA,NA,NA,18,82,0,0,0,170,0,0,2015-05-08T00:00:00Z,16.83,0
+14300,Chaetodon lunulatus,14,0,3.34,0.61,0,NA,NA,0.025704,0.155,3.01,0.0844,LWR estimates for this Genus-body shape,0.31,NA,NA,NA,NA,5,17,0,0,3,30,0,0,2015-05-08T00:00:00Z,11.52,0
+5567,Chaetodon mertensii,12.5,0,2.95,0.41,0,NA,NA,0.0234423,0.0988,3.24,0.0688,LWR estimates for species & Genus-body shape,1.43,NA,NA,NA,NA,21,64,0,0,10,120,0,0,2015-05-08T00:00:00Z,10.57,0
+6550,Chaetodon ornatissimus,20,0,3.34,0.61,0,NA,NA,0.025704,0.155,3.01,0.0844,LWR estimates for this Genus-body shape,0.92,NA,NA,NA,NA,4,19,0,0,1,36,0,0,2015-05-08T00:00:00Z,16.31,0
+6606,Chaetodon pelewensis,12.5,0,2.92,0.38,0,NA,NA,0.0275423,0.099,3.04,0.0681,LWR estimates for species & Genus-body shape,1.43,NA,NA,NA,NA,4,16,0,0,1,30,0,0,2015-05-08T00:00:00Z,10.61,0
+5572,Chaetodon quadrimaculatus,16,0,4.18,0.2,0,NA,NA,0.025704,0.155,3.01,0.0844,LWR estimates for this Genus-body shape,1.13,NA,NA,NA,NA,2,15,0,0,2,43,0,0,2015-05-08T00:00:00Z,13.12,0
+5574,Chaetodon reticulatus,18,0,2.63,0.4,0,NA,NA,0.025704,0.155,3.01,0.0844,LWR estimates for this Genus-body shape,1.02,NA,NA,NA,NA,5,21,0,0,1,40,0,0,2015-05-08T00:00:00Z,14.31,0
+12537,Chaetodon trichrous,12,0,3.29,0.59,0,NA,NA,0.025704,0.155,3.01,0.0844,LWR estimates for this Genus-body shape,1.48,NA,NA,NA,NA,2,13,0,0,0,25,0,0,2015-05-08T00:00:00Z,10,0
+5578,Chaetodon trifascialis,18,0,3.34,0.61,0,NA,NA,0.025704,0.0962,2.97,0.0669,LWR estimates for species & Genus-body shape,0.61,NA,NA,NA,NA,4,10,0,0,2,30,0,0,2015-05-08T00:00:00Z,15.43,0
+5580,Chaetodon ulietensis,15,0,2.71,0.24,0,NA,NA,0.0234423,0.109,2.98,0.0738,LWR estimates for species & Genus-body shape,1.2,NA,NA,NA,NA,4,17,0,0,2,30,0,0,2015-05-08T00:00:00Z,12.7,0
+5581,Chaetodon unimaculatus,20,0,3.28,0.315,0,NA,NA,0.030903,0.108,3,0.0723,LWR estimates for species & Genus-body shape,0.92,NA,NA,NA,NA,7,31,0,0,1,60,0,0,2015-05-08T00:00:00Z,16.44,0
+5582,Chaetodon vagabundus,23,0,2.9,0.4,0,NA,NA,0.025704,0.109,3.01,0.0726,LWR estimates for species & Genus-body shape,0.81,NA,NA,NA,NA,7,18,0,0,5,30,0,0,2015-05-08T00:00:00Z,19.17,0
+80,Chanos chanos,219.6,0,2.4,0.2,0,NA,NA,0.0125893,0.0664,3.02,0.0448,LWR estimates for this species,NA,NA,NA,NA,NA,4,15,0,0,1,30,0,0,2015-05-08T00:00:00Z,180,0
+5598,Cheilinus chlorourus,45,0,3.46,0.52,0,NA,NA,0.0138038,0.116,2.93,0.0786,LWR estimates for species & Subfamily-body shape,0.19,NA,NA,NA,NA,4,16,0,0,1,30,0,0,2015-05-08T00:00:00Z,34.23,0
+5602,Cheilinus oxycephalus,17,0,3.4,0.48,0,NA,NA,0.0144544,0.179,2.94,0.102,LWR estimates for this Subfamily-body shape,0.47,NA,NA,NA,NA,5,21,0,0,1,40,0,0,2015-05-08T00:00:00Z,13.08,0
+5603,Cheilinus trilobatus,45,0,3.88,0.24,0,NA,NA,0.0151356,0.134,3,0.0854,LWR estimates for species & Subfamily-body shape,0.19,NA,NA,NA,NA,4,16,0,0,1,30,0,0,2015-05-08T00:00:00Z,37.58,0
+5604,Cheilinus undulatus,279.38,0,3.99,0.61,0,NA,NA,0.0151356,0.107,2.99,0.0725,LWR estimates for species & Subfamily-body shape,0.1,NA,NA,NA,NA,11,50,0,0,1,100,0,0,2015-05-08T00:00:00Z,229,0
+5623,Cheilio inermis,61,0,3.49,0.54,0,NA,NA,0.00380189,0.189,3.1,0.106,LWR estimates for this Subfamily-body shape,0.14,NA,NA,NA,NA,2,30,0,0,1,30,0,0,2015-05-08T00:00:00Z,50,0
+5781,Cheilodipterus macrodon,25,0,4.01,0.66,0,NA,NA,0.0134896,0.108,3.16,0.0728,LWR estimates for species & Subfamily-body shape,0.62,NA,NA,NA,NA,4,30,0,0,0,40,0,0,2015-05-08T00:00:00Z,19.99,0
+5482,Cheilodipterus quinquelineatus,13,0,3.89,0.4,0,NA,NA,0.00933254,0.105,3.16,0.0726,LWR estimates for species & Subfamily-body shape,1.14,NA,NA,NA,NA,4,21,0,0,0,40,0,0,2015-05-08T00:00:00Z,10.79,0
+12966,Cypselurus simus,31.72,0,4.03,0.64,0,NA,NA,0.01,0.313,3.04,0.119,all LWR estimates,1.02,NA,NA,NA,NA,2,11,0,0,0,20,0,0,2015-05-08T00:00:00Z,26,0
+5547,Chlorurus frontalis,50,0,2,0,0,NA,NA,0.00389045,0.171,3.12,0.09,all LWR estimates for this body shape,0.37,NA,NA,NA,NA,13,26,0,0,10,40,0,0,2015-05-08T00:00:00Z,41,0
+60479,Chlorurus microrhinos,70,0,2,0,0,NA,NA,0.018197,0.102,3.03,0.0668,LWR estimates for species & Subfamily-body shape,0.26,NA,NA,NA,NA,1,15,0,0,1,50,0,0,2015-05-08T00:00:00Z,57.4,0
+5556,Chlorurus sordidus,40,0,2.62,0.29,0,NA,NA,0.0154882,0.0493,3.06,0.0309,LWR estimates for this species,0.64,NA,NA,NA,NA,5,26,0,0,0,50,0,0,2015-05-08T00:00:00Z,34.91,0
+5668,Chromis acares,4.88,0,3.01,0.05,0,NA,NA,0.0151356,0.177,2.99,0.0971,LWR estimates for this Subfamily-body shape,1.32,NA,NA,NA,NA,5,20,0,0,2,37,0,0,2015-05-08T00:00:00Z,4,0
+5669,Chromis agilis,9.15,0,2.96,0.24,0,NA,NA,NA,NA,NA,NA,NA,0.74,NA,NA,NA,NA,9,35,0,0,3,65,0,0,2015-05-08T00:00:00Z,7.5,0
+5450,Chromis atripectoralis,12,0,3.06,0.14,0,NA,NA,0.020893,0.117,3.07,0.0718,LWR estimates for species & Genus-body shape,0.58,NA,NA,NA,NA,3,16,0,0,1,29,0,0,2015-05-08T00:00:00Z,9.05,0
+8126,Chromis iomelas,8.88,0,2.69,0.3,0,NA,NA,0.0213796,0.118,3.04,0.0717,LWR estimates for species & Genus-body shape,0.76,NA,NA,NA,NA,6,20,0,0,3,35,0,0,2015-05-08T00:00:00Z,7.28,0
+5675,Chromis margaritifer,9,0,2.95,0.25,0,NA,NA,0.018197,0.18,3,0.0901,LWR estimates for this Genus-body shape,0.75,NA,NA,NA,NA,4,12,0,0,2,20,0,0,2015-05-08T00:00:00Z,7.38,0
+5678,Chromis vanderbilti,6,0,3.19,0.17,0,NA,NA,0.0151356,0.177,2.99,0.0971,LWR estimates for this Subfamily-body shape,1.09,NA,NA,NA,NA,4,12,0,0,2,20,0,0,2015-05-08T00:00:00Z,4.92,0
+5679,Chromis viridis,10,0,2.92,0.109,0,NA,NA,0.0218776,0.113,2.9,0.0691,LWR estimates for species & Genus-body shape,0.68,NA,NA,NA,NA,2,7,0,0,1,12,0,0,2015-05-08T00:00:00Z,7.94,0
+5682,Chromis xanthura,17,0,3.4,0.45,0,NA,NA,0.0158489,0.164,2.95,0.089,LWR estimates for species & Genus-body shape,0.42,NA,NA,NA,NA,6,22,0,0,3,40,0,0,2015-05-08T00:00:00Z,13.94,0
+5697,Chrysiptera brownriggii,8,0,2.72,0.33,0,NA,NA,0.0151356,0.177,2.99,0.0971,LWR estimates for this Subfamily-body shape,0.84,NA,NA,NA,NA,1,7,0,0,0,12,0,0,2015-05-08T00:00:00Z,6.56,0
+5696,Chrysiptera glauca,11.5,0,2.39,0.32,0,NA,NA,NA,NA,NA,NA,NA,0.8,NA,NA,NA,NA,0,2,0,0,0,3,0,0,2015-05-08T00:00:00Z,9.54,0
+5614,Cirrhilabrus exquisitus,14.64,0,3.4,0.45,0,NA,NA,0.0144544,0.179,2.94,0.102,LWR estimates for this Subfamily-body shape,0.54,NA,NA,NA,NA,9,10,0,0,6,40,0,0,2015-05-08T00:00:00Z,12,0
+12728,Cirrhilabrus scottorum,13,0,3.4,0.45,0,NA,NA,0.0144544,0.179,2.94,0.102,LWR estimates for this Subfamily-body shape,0.6,NA,NA,NA,NA,6,22,0,0,3,40,0,0,2015-05-08T00:00:00Z,10.23,0
+5830,Cirrhitichthys oxycephalus,10,0,4.01,0.66,0,NA,NA,0.017378,0.161,3.03,0.0981,LWR estimates for species & Family-body shape,NA,NA,NA,NA,NA,10,25,0,0,1,40,0,0,2015-05-08T00:00:00Z,8.28,0
+4404,Cirripectes variolosus,10.86,0,2,0,0,NA,NA,0.0112202,0.179,3.01,0.0973,LWR estimates for this Subfamily-body shape,0.63,NA,NA,NA,NA,1,5,0,0,0,31,0,0,2015-05-08T00:00:00Z,8.9,0
+5624,Coris aygula,120,0,3.73,0.5338,0,NA,NA,0.00831764,0.12,3.11,0.0764,LWR estimates for species & Subfamily-body shape,0.08,NA,NA,NA,NA,2,30,0,0,2,30,0,0,2015-05-08T00:00:00Z,105.32,0
+5625,Coris gaimard,40,0,3.53,0.17,0,NA,NA,NA,NA,NA,NA,NA,0.21,NA,NA,NA,NA,6,26,0,0,1,50,0,0,2015-05-08T00:00:00Z,34.39,0
+5959,Corythoichthys flavofasciatus,12,0,3.6,0.47,0,NA,NA,NA,NA,NA,NA,NA,1.12,NA,NA,NA,NA,3,14,0,0,1,25,0,0,2015-05-08T00:00:00Z,11.54,0
+6012,Ctenochaetus binotatus,22,0,2,0,0,NA,NA,0.030903,0.106,2.92,0.0699,LWR estimates for species & Subfamily-body shape,0.63,NA,NA,NA,NA,10,50,0,0,8,53,0,0,2015-05-08T00:00:00Z,16.03,0
+59589,Ctenochaetus flavicauda,16,0,2.18,0,0,NA,NA,0.025704,0.159,2.97,0.088,LWR estimates for this Subfamily-body shape,0.84,NA,NA,NA,NA,3,16,0,0,0,30,0,0,2015-05-08T00:00:00Z,12.38,0
+1262,Ctenochaetus striatus,26,0,2,0,0,NA,NA,0.0263027,0.0454,2.99,0.028,LWR estimates for this species,0.87,NA,NA,NA,NA,6,30,0,0,1,35,0,0,2015-05-08T00:00:00Z,19.95,0
+7238,Ctenogobiops feroculus,9.76,0,3.44,0.43,0,NA,NA,0.0040738,0.2,3.1,0.112,LWR estimates for this Subfamily-body shape,0.61,NA,NA,NA,NA,1,5,0,0,1,20,0,0,2015-05-08T00:00:00Z,8,0
+5110,Dascyllus aruanus,10,0,3.35,0.4174,0,NA,NA,0.0218776,0.0383,2.98,0.0248,LWR estimates for this species,0.68,NA,NA,NA,NA,2,11,0,0,0,20,0,0,2015-05-08T00:00:00Z,8.36,0
+11972,Dascyllus flavicaudus,12,0,2.96,0.36,0,NA,NA,0.0213796,0.163,2.99,0.0899,LWR estimates for this Subfamily-body shape,0.58,NA,NA,NA,NA,6,22,0,0,3,40,0,0,2015-05-08T00:00:00Z,9.84,0
+5112,Dascyllus trimaculatus,14,0,2.8,0.1,0,NA,NA,0.0338844,0.104,3,0.0692,LWR estimates for species & Subfamily-body shape,0.5,NA,NA,NA,NA,6,29,0,0,1,55,0,0,2015-05-08T00:00:00Z,11.44,0
+1022,Diodon hystrix,91,0,4.01,0.16,0,NA,NA,0.0758578,0.15,2.85,0.0966,LWR estimates for species & Family-body shape,NA,NA,NA,NA,NA,3,20,0,0,2,50,0,0,2015-05-08T00:00:00Z,73.73,0
+13764,Diplogrammus goramensis,10,0,3.5,0.37,0,NA,NA,0.00851138,0.258,3,0.13,LWR estimates for this Family-body shape,0.92,NA,NA,NA,NA,8,23,0,0,5,40,0,0,2015-05-08T00:00:00Z,8.2,0
+2467,Echeneis naucrates,110,0,3.68,0.255,0,NA,NA,0.00275423,0.2,3.15,0.113,LWR estimates for this Family-body shape,NA,NA,NA,NA,NA,9,43,0,0,1,85,0,0,2015-05-08T00:00:00Z,95.55,0
+5388,Echidna nebulosa,100,0,3.98,0.65,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,10,0,0,1,48,0,0,2015-05-08T00:00:00Z,98.63,0
+5606,Epibulus insidiator,65.88,0,4.01,0.66,0,NA,NA,0.0141254,0.162,3.01,0.0958,LWR estimates for species & Subfamily-body shape,0.13,NA,NA,NA,NA,5,22,0,0,1,42,0,0,2015-05-08T00:00:00Z,54,0
+5348,Epinephelus fasciatus,40,0,3.72,0.42,0,NA,NA,0.011749,0.1,3.02,0.0652,LWR estimates for species & Genus-body shape,0.13,NA,NA,NA,NA,20,45,0,0,4,160,0,0,2015-05-08T00:00:00Z,33.83,0
+6660,Epinephelus hexagonatus,27.5,0,4.05,0.67,0,NA,NA,0.00912011,0.118,3,0.0734,LWR estimates for species & Genus-body shape,0.91,NA,NA,NA,NA,6,16,0,0,0,30,0,0,2015-05-08T00:00:00Z,23.24,0
+4923,Epinephelus merra,32,0,3.71,0.59,0,NA,NA,0.0109648,0.0861,3.06,0.0584,LWR estimates for species & Genus-body shape,0.41,NA,NA,NA,NA,5,20,0,0,0,50,0,0,2015-05-08T00:00:00Z,27.25,0
+7264,Eviota infulata,3.05,0,3.09,0.28,0,NA,NA,0.00891251,0.168,3.07,0.0889,LWR estimates for this Subfamily-body shape,1.78,NA,NA,NA,NA,3,8,0,0,2,12,0,0,2015-05-08T00:00:00Z,2.5,0
+6032,Exallias brevis,14.5,0,4.33,0.35,0,NA,NA,0.0199526,0.175,3.01,0.0905,all LWR estimates for this body shape,0.48,NA,NA,NA,NA,3,8,0,0,3,20,0,0,2015-05-08T00:00:00Z,11.53,0
+5444,Fistularia commersonii,160,0,4.26,0.66,0,NA,NA,0.00281838,0.152,2.91,0.0937,LWR estimates for species & Family-body shape,NA,NA,NA,NA,NA,14,64,0,0,0,132,0,0,2015-05-08T00:00:00Z,136.7,0
+5584,Forcipiger flavissimus,22,0,3.09,0.24,0,NA,NA,NA,NA,NA,NA,NA,0.84,NA,NA,NA,NA,17,71,0,0,2,145,0,0,2015-05-08T00:00:00Z,18.58,0
+5585,Forcipiger longirostris,22,0,3.5,0.5,0,NA,NA,0.0281838,0.132,3.04,0.0817,LWR estimates for species & Family-body shape,0.84,NA,NA,NA,NA,24,97,0,0,3,200,0,0,2015-05-08T00:00:00Z,19.83,0
+7215,Fusigobius neophytus,7.5,0,2.89,0.25,0,NA,NA,0.00891251,0.168,3.07,0.0889,LWR estimates for this Subfamily-body shape,0.77,NA,NA,NA,NA,2,13,0,0,0,25,0,0,2015-05-08T00:00:00Z,6.15,0
+4464,Gnathanodon speciosus,120,0,3.84,0.6,0,NA,NA,0.0177828,0.0326,2.96,0.02,LWR estimates for this species,0.34,NA,NA,NA,NA,NA,NA,0,0,NA,80,0,0,2015-05-08T00:00:00Z,104.09,0
+1832,Gnathodentex aureolineatus,30,0,3.65,0.57,0,NA,NA,0.0147911,0.12,3.03,0.0728,LWR estimates for species & Subfamily-body shape,0.4,NA,NA,NA,NA,5,17,0,0,3,30,0,0,2015-05-08T00:00:00Z,25,0
+23595,Gnatholepis anjerensis,10.25,0,3.32,0.41,0,NA,NA,0.00831764,0.179,3.07,0.0966,LWR estimates for this Subfamily-body shape,0.58,NA,NA,NA,NA,5,24,0,0,1,46,0,0,2015-05-08T00:00:00Z,8.4,0
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5626,Gomphosus varius,36.6,0,3.59,0.41,0,NA,NA,0.00660693,0.122,2.97,0.076,LWR estimates for species & Subfamily-body shape,0.23,NA,NA,NA,NA,2,30,0,0,1,35,0,0,2015-05-08T00:00:00Z,30,0
+4925,Grammistes sexlineatus,30,0,3.98,0.66,0,NA,NA,NA,NA,NA,NA,NA,0.36,NA,NA,NA,NA,1,20,0,0,1,130,0,0,2015-05-08T00:00:00Z,26.3,0
+7880,Gymnomuraena zebra,150,0,3.36,0.43,0,NA,NA,0.00112202,0.166,3.07,0.0919,LWR estimates for this Subfamily-body shape,NA,NA,NA,NA,NA,7,27,0,0,3,50,0,0,2015-05-08T00:00:00Z,147.44,0
+6493,Gymnothorax buroensis,38.7,0,3.84,0.65,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,13,0,0,0,25,0,0,2015-05-08T00:00:00Z,37.86,0
+6662,Gymnothorax eurostus,60,0,4.13,0.67,0,NA,NA,9.33254e-4,0.162,3.1,0.0897,LWR estimates for this Genus-body shape,NA,NA,NA,NA,NA,3,5,0,0,1,74,0,0,2015-05-08T00:00:00Z,49.2,0
+6495,Gymnothorax fimbriatus,80,0,4.04,0.67,0,NA,NA,8.70964e-4,0.115,3.11,0.0734,LWR estimates for species & Genus-body shape,NA,NA,NA,NA,NA,11,29,0,0,7,50,0,0,2015-05-08T00:00:00Z,79.38,0
+5392,Gymnothorax flavimarginatus,240,0,4.16,0.72,0,NA,NA,8.70964e-4,0.115,3.12,0.0731,LWR estimates for species & Genus-body shape,NA,NA,NA,NA,NA,17,73,0,0,1,150,0,0,2015-05-08T00:00:00Z,237,0
+6380,Gymnothorax javanicus,300,0,3.87,0.64,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,26,0,0,0,50,0,0,2015-05-08T00:00:00Z,294.64,0
+5394,Gymnothorax meleagris,120,0,3.98,0.7,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,27,0,0,1,51,0,0,2015-05-08T00:00:00Z,118.23,0
+6395,Gymnothorax pictus,140,0,4.19,0.72,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,15,52,0,0,5,100,0,0,2015-05-08T00:00:00Z,138.9,0
+4905,Gymnothorax undulatus,150,0,3.57,0.309,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19,59,0,0,9,110,0,0,2015-05-08T00:00:00Z,148.82,0
+65073,Halichoeres claudia,10.74,0,3.37,0.5,0,NA,NA,0.01,0.313,3.04,0.119,all LWR estimates,0.72,NA,NA,NA,NA,1,24,0,0,1,35,0,0,2015-05-08T00:00:00Z,8.8,0
+12663,Halichoeres hortulanus,27,0,3.4,0.42,0,NA,NA,0.00977237,0.125,3.07,0.0765,LWR estimates for species & Genus-body shape,0.72,NA,NA,NA,NA,1,30,0,0,1,30,0,0,2015-05-08T00:00:00Z,23.63,0
+5630,Halichoeres margaritaceus,15.25,0,3.66,0.5,0,NA,NA,NA,NA,NA,NA,NA,0.52,NA,NA,NA,NA,0,3,0,0,0,5,0,0,2015-05-08T00:00:00Z,12.5,0
+5631,Halichoeres marginatus,18,0,3.19,0.17,0,NA,NA,0.0104713,0.128,3.14,0.0767,LWR estimates for species & Genus-body shape,0.72,NA,NA,NA,NA,3,16,0,0,0,30,0,0,2015-05-08T00:00:00Z,15.23,0
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5634,Halichoeres trimaculatus,27,0,3.46,0.5083,0,NA,NA,0.0104713,0.109,2.99,0.0711,LWR estimates for species & Genus-body shape,0.31,NA,NA,NA,NA,2,18,0,0,2,30,0,0,2015-05-08T00:00:00Z,22.02,0
+5635,Hemigymnus fasciatus,30,0,3.5,0.37,0,NA,NA,NA,NA,NA,NA,NA,0.28,NA,NA,NA,NA,3,14,0,0,1,25,0,0,2015-05-08T00:00:00Z,25.21,0
+5586,Hemitaurichthys polylepis,18,0,3.09,0.1,0,NA,NA,NA,NA,NA,NA,NA,1.02,NA,NA,NA,NA,8,32,0,0,3,60,0,0,2015-05-08T00:00:00Z,15.19,0
+5588,Heniochus acuminatus,25,0,3.45,0.41,0,NA,NA,0.0281838,0.0985,3.05,0.0685,LWR estimates for species & Family-body shape,0.75,NA,NA,NA,NA,15,75,0,0,2,75,0,0,2015-05-08T00:00:00Z,20.48,0
+5589,Heniochus chrysostomus,18,0,3.75,0.32,0,NA,NA,0.0269153,0.099,3.12,0.0689,LWR estimates for species & Family-body shape,1.02,NA,NA,NA,NA,5,22,0,0,2,40,0,0,2015-05-08T00:00:00Z,14.79,0
+5590,Heniochus monoceros,24,0,3.5,0.37,0,NA,NA,0.0263027,0.0971,3.07,0.0676,LWR estimates for species & Family-body shape,0.78,NA,NA,NA,NA,4,17,0,0,2,30,0,0,2015-05-08T00:00:00Z,21.07,0
+5539,Hipposcarus longiceps,60,0,2.01,0.14,0,NA,NA,0.0141254,0.175,3.04,0.091,LWR estimates for this Subfamily-body shape,0.37,NA,NA,NA,NA,5,22,0,0,2,40,0,0,2015-05-08T00:00:00Z,49.2,0
+5637,Hologymnosus annulatus,40,0,4.2,0.73,0,NA,NA,0.01,0.161,3.06,0.0889,LWR estimates for this Subfamily-body shape,0.21,NA,NA,NA,NA,11,25,0,0,8,40,0,0,2015-05-08T00:00:00Z,34.74,0
+5638,Hologymnosus doliatus,50,0,3.79,0.57,0,NA,NA,0.01,0.313,3.04,0.119,all LWR estimates,0.17,NA,NA,NA,NA,5,30,0,0,1,35,0,0,2015-05-08T00:00:00Z,42.76,0
+7710,Hyporhamphus affinis,46.36,0,3.46,0.4777,0,NA,NA,NA,NA,NA,NA,NA,0.56,NA,NA,NA,NA,0,4,0,0,0,6,0,0,2015-05-08T00:00:00Z,38,0
+5650,Labroides bicolor,15,0,4.02,0.67,0,NA,NA,0.00446684,0.2,3.14,0.111,LWR estimates for this Subfamily-body shape,0.53,NA,NA,NA,NA,2,20,0,0,2,40,0,0,2015-05-08T00:00:00Z,12,0
+5459,Labroides dimidiatus,14,0,3.46,0.44,0,NA,NA,0.00446684,0.2,3.14,0.111,LWR estimates for this Subfamily-body shape,0.56,NA,NA,NA,NA,1,30,0,0,1,40,0,0,2015-05-08T00:00:00Z,11.67,0
+23530,Labroides rubrolabiatus,9,0,3.81,0.65,0,NA,NA,0.00954993,0.167,3.05,0.0892,LWR estimates for this Subfamily-body shape,0.84,NA,NA,NA,NA,4,17,0,0,1,32,0,0,2015-05-08T00:00:00Z,7.14,0
+6399,Lactoria cornuta,46,0,3.5,0.37,0,NA,NA,0.0204174,0.117,2.77,0.0793,LWR estimates for species & Family-body shape,NA,NA,NA,NA,NA,1,50,0,0,1,100,0,0,2015-05-08T00:00:00Z,37.72,0
+5683,Lepidozygus tapeinosoma,10.5,0,3.4,0.45,0,NA,NA,0.0151356,0.177,2.99,0.0971,LWR estimates for this Subfamily-body shape,0.65,NA,NA,NA,NA,4,16,0,0,1,30,0,0,2015-05-08T00:00:00Z,8.61,0
+4360,Leptoscarus vaigiensis,35,0,2.27,0.17,0,NA,NA,0.00870964,0.0957,3.01,0.0663,LWR estimates for species & Subfamily-body shape,0.51,NA,NA,NA,NA,2,6,0,0,1,10,0,0,2015-05-08T00:00:00Z,28.7,0
+1864,Lethrinus olivaceus,100,0,3.95,0.39,0,NA,NA,0.0169824,0.0978,2.93,0.0643,LWR estimates for species & Genus-body shape,0.15,NA,NA,NA,NA,21,89,0,0,1,185,0,0,2015-05-08T00:00:00Z,82,0
+1852,Lethrinus xanthochilus,77.7,0,3.79,0.53,0,NA,NA,0.0169824,0.102,2.98,0.0675,LWR estimates for species & Genus-body shape,0.19,NA,NA,NA,NA,20,75,0,0,5,150,0,0,2015-05-08T00:00:00Z,64.47,0
+1417,Lutjanus bohar,90,0,4.27,0.5,0,NA,NA,0.0123027,0.0915,3,0.0606,LWR estimates for species & Genus-body shape,0.09,NA,NA,NA,NA,10,70,0,0,4,180,0,0,2015-05-08T00:00:00Z,75.66,0
+262,Lutjanus fulvus,40,0,3.61,0.46,0,NA,NA,0.0169824,0.101,2.98,0.0646,LWR estimates for species & Genus-body shape,0.37,NA,NA,NA,NA,8,38,0,0,1,75,0,0,2015-05-08T00:00:00Z,33.43,0
+156,Lutjanus kasmira,40,0,3.87,0.32,0,NA,NA,0.0134896,0.0921,3.04,0.061,LWR estimates for species & Genus-body shape,0.28,NA,NA,NA,NA,30,150,0,0,3,265,0,0,2015-05-08T00:00:00Z,33.63,0
+166,Lutjanus monostigma,60,0,4.27,0.74,0,NA,NA,0.0134896,0.103,2.96,0.0653,LWR estimates for species & Genus-body shape,0.22,NA,NA,NA,NA,7,31,0,0,1,60,0,0,2015-05-08T00:00:00Z,52.39,0
+173,Lutjanus rivulatus,80,0,4.13,0.63,0,NA,NA,0.0154882,0.113,3.04,0.0714,LWR estimates for species & Genus-body shape,0.22,NA,NA,NA,NA,55,76,0,0,50,100,0,0,2015-05-08T00:00:00Z,65.45,0
+4984,Macropharyngodon meleagris,18.3,0,3.09,0.44,0,NA,NA,0.01,0.161,3.06,0.0889,LWR estimates for this Subfamily-body shape,0.44,NA,NA,NA,NA,0,30,0,0,0,30,0,0,2015-05-08T00:00:00Z,15,0
+12724,Macropharyngodon ornatus,13,0,3.5,0.38,0,NA,NA,0.01,0.161,3.06,0.0889,LWR estimates for this Subfamily-body shape,0.6,NA,NA,NA,NA,4,17,0,0,2,30,0,0,2015-05-08T00:00:00Z,10.26,0
+5795,Malacanthus brevirostris,32,0,3.5,0.37,0,NA,NA,NA,NA,NA,NA,NA,0.32,NA,NA,NA,NA,14,45,0,0,5,50,0,0,2015-05-08T00:00:00Z,27.89,0
+966,Melichthys niger,50,0,2.39,0,0,NA,NA,0.025704,0.158,2.96,0.0888,LWR estimates for this Family-body shape,0.23,NA,NA,NA,NA,0,20,0,0,0,75,0,0,2015-05-08T00:00:00Z,41,0
+5838,Melichthys vidua,40,0,3.38,0.39,0,NA,NA,0.0269153,0.116,3.07,0.0761,LWR estimates for species & Family-body shape,0.28,NA,NA,NA,NA,9,33,0,0,4,60,0,0,2015-05-08T00:00:00Z,35.62,0
+1869,Monotaxis grandoculis,60,0,3.45,0.41,0,NA,NA,0.0199526,0.116,2.98,0.0742,LWR estimates for species & Subfamily-body shape,0.21,NA,NA,NA,NA,5,30,0,0,1,100,0,0,2015-05-08T00:00:00Z,50,0
+5983,Mulloidichthys flavolineatus,43,0,3.84,0.32,0,NA,NA,0.00891251,0.097,3.08,0.0655,LWR estimates for species & Family-body shape,0.27,NA,NA,NA,NA,8,39,0,0,1,76,0,0,2015-05-08T00:00:00Z,35.26,0
+5984,Mulloidichthys vanicolensis,38,0,3.6,0.5,0,NA,NA,0.00794328,0.104,3.05,0.0696,LWR estimates for species & Family-body shape,0.51,NA,NA,NA,NA,12,56,0,0,1,113,0,0,2015-05-08T00:00:00Z,31.93,0
+7773,Myripristis amaena,32.33,0,3.62,0.175,0,NA,NA,0.0177828,0.108,3.13,0.0702,LWR estimates for species & Genus-body shape,0.22,NA,NA,NA,NA,27,39,0,0,25,52,0,0,2015-05-08T00:00:00Z,26.5,0
+4910,Myripristis berndti,30,0,3.72,0.57,0,NA,NA,0.0144544,0.0997,3.06,0.0656,LWR estimates for species & Genus-body shape,0.66,NA,NA,NA,NA,3,15,0,0,3,159,0,0,2015-05-08T00:00:00Z,24.2,0
+7306,Myripristis kuntee,26,0,3.36,0.24,0,NA,NA,0.0190546,0.116,3.17,0.0735,LWR estimates for species & Genus-body shape,0.76,NA,NA,NA,NA,6,33,0,0,0,65,0,0,2015-05-08T00:00:00Z,20.68,0
+5408,Myripristis murdjan,60,0,3.39,0.134,0,NA,NA,0.011749,0.128,3.05,0.0777,LWR estimates for species & Genus-body shape,0.35,NA,NA,NA,NA,6,26,0,0,1,50,0,0,2015-05-08T00:00:00Z,47.81,0
+7309,Myripristis violacea,35,0,3.45,0.5272,0,NA,NA,0.020893,0.109,3.07,0.0705,LWR estimates for species & Genus-body shape,0.58,NA,NA,NA,NA,5,17,0,0,3,30,0,0,2015-05-08T00:00:00Z,27.63,0
+6019,Naso annulatus,100,0,2.12,0.09,0,NA,NA,0.0263027,0.123,2.93,0.078,LWR estimates for species & Genus-body shape,0.21,NA,NA,NA,NA,25,60,0,0,1,60,0,0,2015-05-08T00:00:00Z,86.44,0
+6020,Naso brachycentron,99.9,0,2.67,0.29,0,NA,NA,0.0245471,0.179,2.94,0.0947,LWR estimates for this Genus-body shape,0.15,NA,NA,NA,NA,15,20,0,0,8,30,0,0,2015-05-08T00:00:00Z,81.92,0
+6021,Naso brevirostris,66.6,0,2.22,0.15,0,NA,NA,0.0239883,0.098,2.99,0.0658,LWR estimates for species & Genus-body shape,0.4,NA,NA,NA,NA,4,46,0,0,2,122,0,0,2015-05-08T00:00:00Z,54.61,0
+1263,Naso hexacanthus,83.25,0,3.06,0.33,0,NA,NA,0.025704,0.106,2.95,0.0711,LWR estimates for species & Genus-body shape,0.22,NA,NA,NA,NA,10,137,0,0,6,150,0,0,2015-05-08T00:00:00Z,68.26,0
+1264,Naso lituratus,56.12,0,2.32,0.19,0,NA,NA,0.0301995,0.15,2.97,0.0939,LWR estimates for species & Subfamily-body shape,0.51,NA,NA,NA,NA,5,30,0,0,0,90,0,0,2015-05-08T00:00:00Z,46,0
+1265,Naso unicornis,77.7,0,2.17,0.11,0,NA,NA,0.025704,0.0768,2.95,0.0496,LWR estimates for this species,0.26,NA,NA,NA,NA,20,87,0,0,1,180,0,0,2015-05-08T00:00:00Z,62.23,0
+6024,Naso vlamingii,60,0,2.16,0.11,0,NA,NA,0.0331131,0.118,2.97,0.0769,LWR estimates for species & Genus-body shape,0.26,NA,NA,NA,NA,1,50,0,0,1,50,0,0,2015-05-08T00:00:00Z,44.84,0
+5895,Nebrius ferrugineus,320,0,4.1,0.39,0,NA,NA,0.00416869,0.213,3.08,0.118,LWR estimates for this Family-body shape,0.19,NA,NA,NA,NA,5,30,0,0,1,70,0,0,2015-05-08T00:00:00Z,218.13,0
+59777,Nectamia fusca,11.2,0,3.34,0.22,0,NA,NA,0.0190546,0.107,2.95,0.071,LWR estimates for species & Subfamily-body shape,1.31,NA,NA,NA,NA,3,11,0,0,1,20,0,0,2015-05-08T00:00:00Z,7.26,0
+896,Negaprion acutidens,380,0,4.13,0.59,0,NA,NA,NA,NA,NA,NA,NA,0.08,NA,NA,NA,NA,9,46,0,0,0,92,0,0,2015-05-08T00:00:00Z,311.6,0
+6629,Nemateleotris magnifica,9,0,3.1,0.3,0,NA,NA,0.00389045,0.171,3.12,0.09,all LWR estimates for this body shape,NA,NA,NA,NA,NA,6,28,0,0,6,70,0,0,2015-05-08T00:00:00Z,7.1,0
+5832,Neocirrhites armatus,9,0,3.5,0.5,0,NA,NA,0.018197,0.205,3.02,0.111,LWR estimates for this Family-body shape,NA,NA,NA,NA,NA,2,6,0,0,1,10,0,0,2015-05-08T00:00:00Z,7.4,0
+7310,Neoniphon argenteus,24,0,3.96,0.59,0,NA,NA,0.0190546,0.106,2.95,0.0712,LWR estimates for species & Subfamily-body shape,0.82,NA,NA,NA,NA,4,12,0,0,3,20,0,0,2015-05-08T00:00:00Z,19.71,0
+6582,Neoniphon opercularis,35,0,3.55,0.59,0,NA,NA,NA,NA,NA,NA,NA,0.58,NA,NA,NA,NA,5,15,0,0,3,25,0,0,2015-05-08T00:00:00Z,30.06,0
+4911,Neoniphon sammara,32,0,3.62,0.19,0,NA,NA,0.0154882,0.0967,3,0.066,LWR estimates for species & Subfamily-body shape,0.52,NA,NA,NA,NA,4,24,0,0,0,46,0,0,2015-05-08T00:00:00Z,27.05,0
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5610,Novaculichthys taeniourus,30,0,3.25,0.4,0,NA,NA,0.0144544,0.179,2.94,0.102,LWR estimates for this Subfamily-body shape,0.28,NA,NA,NA,NA,5,14,0,0,3,25,0,0,2015-05-08T00:00:00Z,24.4,0
+1311,Odonus niger,50,0,3.22,0.32,0,NA,NA,NA,NA,NA,NA,NA,0.23,NA,NA,NA,NA,8,23,0,0,5,40,0,0,2015-05-08T00:00:00Z,34.38,0
+5766,Ostorhinchus angustatus,11,0,3.3,0.32,0,NA,NA,0.017378,0.131,3.06,0.079,LWR estimates for species & Genus-body shape,1.33,NA,NA,NA,NA,12,36,0,0,6,65,0,0,2015-05-08T00:00:00Z,8.8,0
+4836,Ostorhinchus nigrofasciatus,10,0,3.57,0.39,0,NA,NA,0.0125893,0.119,3.32,0.079,LWR estimates for species & Subfamily-body shape,1.46,NA,NA,NA,NA,7,27,0,0,3,50,0,0,2015-05-08T00:00:00Z,8.11,0
+6555,Ostracion cubicus,45,0,3.37,0.48,0,NA,NA,0.0537032,0.109,2.76,0.0748,LWR estimates for species & Family-body shape,NA,NA,NA,NA,NA,1,50,0,0,1,280,0,0,2015-05-08T00:00:00Z,37.06,0
+6556,Ostracion meleagris,25,0,2.71,0,0,NA,NA,0.0363078,0.163,2.81,0.0966,LWR estimates for this Family-body shape,NA,NA,NA,NA,NA,4,16,0,0,1,30,0,0,2015-05-08T00:00:00Z,20.17,0
+5596,Oxycheilinus bimaculatus,15,0,3.5,0.57,0,NA,NA,0.018197,0.112,2.77,0.0741,LWR estimates for species & Subfamily-body shape,0.53,NA,NA,NA,NA,13,55,0,0,2,110,0,0,2015-05-08T00:00:00Z,10.85,0
+63450,Oxycheilinus lineatus,19.46,0,3.77,0.64,0,NA,NA,0.0144544,0.179,2.94,0.102,LWR estimates for this Subfamily-body shape,0.41,NA,NA,NA,NA,52,68,0,0,49,85,0,0,2015-05-08T00:00:00Z,15.95,0
+5605,Oxycheilinus unifasciatus,46,0,4.06,0.7,0,NA,NA,NA,NA,NA,NA,NA,0.19,NA,NA,NA,NA,18,78,0,0,1,160,0,0,2015-05-08T00:00:00Z,40.28,0
+5835,Paracirrhites arcatus,20,0,3.63,0.41,0,NA,NA,0.00912011,0.208,3.08,0.112,LWR estimates for this Family-body shape,NA,NA,NA,NA,NA,1,33,0,0,1,91,0,0,2015-05-08T00:00:00Z,17.11,0
+5952,Paracirrhites forsteri,22,0,4.3,0.76,0,NA,NA,0.00912011,0.208,3.08,0.112,LWR estimates for this Family-body shape,NA,NA,NA,NA,NA,5,35,0,0,1,35,0,0,2015-05-08T00:00:00Z,17.99,0
+5953,Paracirrhites hemistictus,29,0,3.75,0.52,0,NA,NA,0.00912011,0.208,3.08,0.112,LWR estimates for this Family-body shape,NA,NA,NA,NA,NA,3,11,0,0,1,20,0,0,2015-05-08T00:00:00Z,24.46,0
+7219,Paragobiodon echinocephalus,4,0,3.15,0.28,0,NA,NA,0.0199526,0.175,3.01,0.0905,all LWR estimates for this body shape,1.39,NA,NA,NA,NA,2,6,0,0,1,10,0,0,2015-05-08T00:00:00Z,3.29,0
+22476,Paragobiodon lacunicolus,3,0,3.09,0.28,0,NA,NA,0.0199526,0.175,3.01,0.0905,all LWR estimates for this body shape,1.81,NA,NA,NA,NA,3,11,0,0,1,20,0,0,2015-05-08T00:00:00Z,2.44,0
+22477,Paragobiodon modestus,3.5,0,3.12,0.28,0,NA,NA,0.0199526,0.175,3.01,0.0905,all LWR estimates for this body shape,1.57,NA,NA,NA,NA,4,10,0,0,3,15,0,0,2015-05-08T00:00:00Z,2.74,0
+6670,Parapercis millepunctata,18,0,3.54,0.5,0,NA,NA,0.00524807,0.208,3.08,0.116,LWR estimates for this Family-body shape,0.42,NA,NA,NA,NA,7,27,0,0,3,50,0,0,2015-05-08T00:00:00Z,15.2,0
+10753,Parapercis multiplicata,15,0,3.45,0.38,0,NA,NA,0.00524807,0.208,3.08,0.116,LWR estimates for this Family-body shape,0.5,NA,NA,NA,NA,27,30,0,0,4,40,0,0,2015-05-08T00:00:00Z,12.43,0
+5987,Parupeneus barberinus,60,0,3.35,0.47,0,NA,NA,0.00977237,0.0595,3.1,0.0208,LWR estimates for this species,0.22,NA,NA,NA,NA,11,50,0,0,1,100,0,0,2015-05-08T00:00:00Z,48.68,0
+5989,Parupeneus ciliatus,38,0,3.49,0.38,0,NA,NA,0.0107152,0.11,3.15,0.07,LWR estimates for species & Genus-body shape,0.38,NA,NA,NA,NA,2,40,0,0,2,91,0,0,2015-05-08T00:00:00Z,33.41,0
+5990,Parupeneus cyclostomus,50,0,4.2,0.62,0,NA,NA,NA,NA,NA,NA,NA,0.29,NA,NA,NA,NA,15,62,0,0,2,125,0,0,2015-05-08T00:00:00Z,40,0
+60849,Parupeneus insularis,30,0,3.65,0.28,0,NA,NA,0.0104713,0.174,3.11,0.0886,LWR estimates for this Genus-body shape,0.47,NA,NA,NA,NA,9,41,0,0,1,80,0,0,2015-05-08T00:00:00Z,24.6,0
+5993,Parupeneus multifasciatus,35,0,3.5,0.262,0,NA,NA,0.0104713,0.119,3.15,0.0728,LWR estimates for species & Genus-body shape,0.76,NA,NA,NA,NA,20,79,0,0,3,161,0,0,2015-05-08T00:00:00Z,29.39,0
+5994,Parupeneus pleurostigma,33,0,3.41,0.24,0,NA,NA,NA,NA,NA,NA,NA,0.43,NA,NA,NA,NA,13,59,0,0,1,120,0,0,2015-05-08T00:00:00Z,28.63,0
+6077,Petroscirtes xestus,7.5,0,2.35,0.26,0,NA,NA,0.00380189,0.202,3.15,0.111,LWR estimates for this Subfamily-body shape,0.89,NA,NA,NA,NA,1,6,0,0,0,11,0,0,2015-05-08T00:00:00Z,6.12,0
+6072,Plagiotremus tapeinosoma,14,0,3.84,0.67,0,NA,NA,0.00380189,0.173,3.11,0.103,LWR estimates for species & Subfamily-body shape,0.5,NA,NA,NA,NA,4,16,0,0,1,30,0,0,2015-05-08T00:00:00Z,12.17,0
+5737,Platax orbicularis,60,0,3.33,0.49,0,NA,NA,0.0288403,0.153,2.98,0.0939,LWR estimates for species & Family-body shape,0.27,NA,NA,NA,NA,7,18,0,0,5,30,0,0,2015-05-08T00:00:00Z,49.44,0
+973,Platybelone argalus argalus,50,0,4.47,0.78,0,NA,NA,NA,NA,NA,NA,NA,0.35,NA,NA,NA,NA,0,2,0,0,0,20,0,0,2015-05-08T00:00:00Z,47.99,0
+1314,Platybelone argalus platyura,47.93,0,4.2,0.73,0,NA,NA,0.00102329,0.175,3.06,0.0896,all LWR estimates for this body shape,0.37,NA,NA,NA,NA,0,1,0,0,0,2,0,0,2015-05-08T00:00:00Z,39.3,0
+5709,Plectroglyphidodon dickii,11,0,3.68,0.33,0,NA,NA,0.0234423,0.147,2.99,0.0854,LWR estimates for species & Subfamily-body shape,0.62,NA,NA,NA,NA,2,9,0,0,1,15,0,0,2015-05-08T00:00:00Z,8.75,0
+10242,Plectroglyphidodon flaviventris,8.54,0,2.3,0.21,0,NA,NA,0.0213796,0.163,2.99,0.0899,LWR estimates for this Subfamily-body shape,0.79,NA,NA,NA,NA,6,12,0,0,5,18,0,0,2015-05-08T00:00:00Z,7,0
+5711,Plectroglyphidodon johnstonianus,14,0,3.35,0.59,0,NA,NA,0.0229087,0.129,2.95,0.079,LWR estimates for species & Subfamily-body shape,0.5,NA,NA,NA,NA,2,10,0,0,1,18,0,0,2015-05-08T00:00:00Z,11.37,0
+5712,Plectroglyphidodon lacrymatus,10,0,2.22,0.2,0,NA,NA,0.0213796,0.163,2.99,0.0899,LWR estimates for this Subfamily-body shape,0.68,NA,NA,NA,NA,5,21,0,0,1,40,0,0,2015-05-08T00:00:00Z,7.75,0
+12727,Pogonoperca punctata,35,0,4,0.66,0,NA,NA,0.0112202,0.21,3.06,0.113,LWR estimates for this Subfamily-body shape,0.31,NA,NA,NA,NA,10,150,0,0,10,216,0,0,2015-05-08T00:00:00Z,28.7,0
+6416,Polydactylus sexfilis,61,0,3.43,0.49,0,NA,NA,NA,NA,NA,NA,NA,0.4,NA,NA,NA,NA,20,50,0,0,1,50,0,0,2015-05-08T00:00:00Z,45.73,0
+6504,Pomacanthus imperator,48.8,0,2.7,0,0,NA,NA,0.0316228,0.158,2.91,0.09,LWR estimates for species & Genus-body shape,0.2,NA,NA,NA,NA,11,50,0,0,1,100,0,0,2015-05-08T00:00:00Z,40,0
+5726,Pomacentrus pavo,10.37,0,3.02,0.24,0,NA,NA,0.0199526,0.101,2.94,0.0671,LWR estimates for species & Genus-body shape,0.66,NA,NA,NA,NA,2,10,0,0,1,18,0,0,2015-05-08T00:00:00Z,8.5,0
+10282,Pomachromis fuscidorsalis,7.32,0,3.47,0.45,0,NA,NA,0.0151356,0.177,2.99,0.0971,LWR estimates for this Subfamily-body shape,0.91,NA,NA,NA,NA,2,10,0,0,1,18,0,0,2015-05-08T00:00:00Z,6,0
+5756,Pristiapogon exostigma,12,0,3.72,0.6,0,NA,NA,0.0107152,0.117,3.19,0.0788,LWR estimates for species & Subfamily-body shape,1.23,NA,NA,NA,NA,3,20,0,0,3,40,0,0,2015-05-08T00:00:00Z,9.44,0
+5757,Pristiapogon fraenatus,10,0,3.5,0.5,0,NA,NA,0.0165959,0.106,3.07,0.0706,LWR estimates for species & Subfamily-body shape,1.46,NA,NA,NA,NA,7,27,0,0,3,50,0,0,2015-05-08T00:00:00Z,8.16,0
+5758,Pristiapogon kallopterus,15.5,0,3.64,0.51,0,NA,NA,0.0154882,0.0985,3.13,0.0671,LWR estimates for species & Subfamily-body shape,0.97,NA,NA,NA,NA,19,78,0,0,3,158,0,0,2015-05-08T00:00:00Z,12.76,0
+59194,Pseudanthias mooreanus,8.78,0,3.32,0.43,0,NA,NA,0.00954993,0.197,2.96,0.105,LWR estimates for this Subfamily-body shape,1.11,NA,NA,NA,NA,NA,NA,0,0,NA,10,0,0,2015-05-08T00:00:00Z,7.2,0
+46510,Pseudanthias olivaceus,12,0,3.38,0.44,0,NA,NA,0.00954993,0.197,2.96,0.105,LWR estimates for this Subfamily-body shape,0.83,NA,NA,NA,NA,4,18,0,0,1,34,0,0,2015-05-08T00:00:00Z,9.84,0
+6934,Pseudanthias pascalus,20,0,3.49,0.45,0,NA,NA,NA,NA,NA,NA,NA,0.52,NA,NA,NA,NA,10,33,0,0,5,60,0,0,2015-05-08T00:00:00Z,14.37,0
+6027,Pseudobalistes flavimarginatus,60,0,2.78,0.26,0,NA,NA,0.025704,0.158,2.96,0.0888,LWR estimates for this Family-body shape,0.49,NA,NA,NA,NA,6,27,0,0,2,50,0,0,2015-05-08T00:00:00Z,51,0
+4466,Pseudobalistes fuscus,55,0,3.05,0.32,0,NA,NA,0.0363078,0.113,2.97,0.0754,LWR estimates for species & Family-body shape,0.21,NA,NA,NA,NA,32,41,0,0,30,50,0,0,2015-05-08T00:00:00Z,40.7,0
+5616,Pseudocheilinus evanidus,9,0,3.5,0.37,0,NA,NA,NA,NA,NA,NA,NA,0.84,NA,NA,NA,NA,11,20,0,0,6,61,0,0,2015-05-08T00:00:00Z,7.6,0
+5617,Pseudocheilinus hexataenia,10,0,3.4,0.39,0,NA,NA,0.0147911,0.165,2.95,0.0978,LWR estimates for species & Subfamily-body shape,0.76,NA,NA,NA,NA,4,35,0,0,1,35,0,0,2015-05-08T00:00:00Z,8.35,0
+5618,Pseudocheilinus octotaenia,17.08,0,3.36,0.39,0,NA,NA,0.0144544,0.179,2.94,0.102,LWR estimates for this Subfamily-body shape,0.47,NA,NA,NA,NA,6,27,0,0,2,50,0,0,2015-05-08T00:00:00Z,14,0
+5619,Pseudocheilinus tetrataenia,7.5,0,3.33,0.38,0,NA,NA,0.0144544,0.179,2.94,0.102,LWR estimates for this Subfamily-body shape,1,NA,NA,NA,NA,6,44,0,0,6,44,0,0,2015-05-08T00:00:00Z,5.98,0
+5594,Pseudodax moluccanus,30,0,2.82,0.26,0,NA,NA,0.0112202,0.173,3.04,0.0857,all LWR estimates for this body shape,0.28,NA,NA,NA,NA,4,40,0,0,3,60,0,0,2015-05-08T00:00:00Z,25.05,0
+4849,Pseudojuloides atavai,13,0,3.37,0.37,0,NA,NA,0.01,0.161,3.06,0.0889,LWR estimates for this Subfamily-body shape,0.6,NA,NA,NA,NA,14,22,0,0,12,31,0,0,2015-05-08T00:00:00Z,10.67,0
+4851,Pseudojuloides cerasinus,12.3,0,3.36,0.37,0,NA,NA,0.01,0.161,3.06,0.0889,LWR estimates for this Subfamily-body shape,0.63,NA,NA,NA,NA,21,32,0,0,2,61,0,0,2015-05-08T00:00:00Z,10.41,0
+4375,Ptereleotris evides,14,0,3.4,0.45,0,NA,NA,0.00389045,0.171,3.12,0.09,all LWR estimates for this body shape,NA,NA,NA,NA,NA,2,15,0,0,2,15,0,0,2015-05-08T00:00:00Z,11.49,0
+4378,Ptereleotris heteroptera,14,0,3.4,0.45,0,NA,NA,0.00389045,0.171,3.12,0.09,all LWR estimates for this body shape,NA,NA,NA,NA,NA,5,15,0,0,5,46,0,0,2015-05-08T00:00:00Z,11.71,0
+4381,Ptereleotris microlepis,13,0,3.38,0.44,0,NA,NA,0.00389045,0.171,3.12,0.09,all LWR estimates for this body shape,NA,NA,NA,NA,NA,1,10,0,0,1,50,0,0,2015-05-08T00:00:00Z,10.42,0
+4382,Ptereleotris monoptera,14.64,0,3.4,0.45,0,NA,NA,0.00389045,0.171,3.12,0.09,all LWR estimates for this body shape,NA,NA,NA,NA,NA,6,15,0,0,6,50,0,0,2015-05-08T00:00:00Z,12,0
+939,Pterocaesio tile,30,0,3.33,0.33,0,NA,NA,NA,NA,NA,NA,NA,0.61,NA,NA,NA,NA,7,31,0,0,1,60,0,0,2015-05-08T00:00:00Z,25.9,0
+4914,Pterois antennata,20,0,3.55,0.59,0,NA,NA,0.0112202,0.208,3.09,0.113,LWR estimates for this Subfamily-body shape,0.24,NA,NA,NA,NA,10,44,0,0,2,86,0,0,2015-05-08T00:00:00Z,15.76,0
+4913,Pterois radiata,24,0,3.57,0.59,0,NA,NA,0.0112202,0.208,3.09,0.113,LWR estimates for this Subfamily-body shape,0.2,NA,NA,NA,NA,4,16,0,0,1,30,0,0,2015-05-08T00:00:00Z,18.84,0
+5195,Pterois volitans,38,0,4.35,0.36,0,NA,NA,0.0112202,0.208,3.09,0.113,LWR estimates for this Subfamily-body shape,0.13,NA,NA,NA,NA,7,29,0,0,2,55,0,0,2015-05-08T00:00:00Z,29.75,0
+6572,Pygoplites diacanthus,30.5,0,2.69,0,0,NA,NA,NA,NA,NA,NA,NA,0.31,NA,NA,NA,NA,8,40,0,0,0,80,0,0,2015-05-08T00:00:00Z,25,0
+5839,Rhinecanthus aculeatus,30,0,3.21,0.14,0,NA,NA,0.0263027,0.117,2.98,0.0767,LWR estimates for species & Family-body shape,0.4,NA,NA,NA,NA,5,26,0,0,0,50,0,0,2015-05-08T00:00:00Z,26.03,0
+13774,Rhinecanthus lunula,28,0,3.49,0.38,0,NA,NA,0.025704,0.158,2.96,0.0888,LWR estimates for this Family-body shape,0.39,NA,NA,NA,NA,NA,NA,0,0,10,NA,0,0,2015-05-08T00:00:00Z,22.96,0
+5840,Rhinecanthus rectangulus,30,0,3.52,0.28,0,NA,NA,0.0275423,0.116,2.95,0.0769,LWR estimates for species & Family-body shape,0.36,NA,NA,NA,NA,11,16,0,0,10,20,0,0,2015-05-08T00:00:00Z,26.82,0
+6028,Rhinecanthus verrucosus,23,0,3.45,0.38,0,NA,NA,0.025704,0.158,2.96,0.0888,LWR estimates for this Family-body shape,0.47,NA,NA,NA,NA,3,11,0,0,1,20,0,0,2015-05-08T00:00:00Z,18.86,0
+4907,Sargocentron caudimaculatum,25,0,3.89,0.67,0,NA,NA,0.0151356,0.164,2.98,0.0874,LWR estimates for this Genus-body shape,0.79,NA,NA,NA,NA,5,22,0,0,2,40,0,0,2015-05-08T00:00:00Z,21.58,0
+4699,Sargocentron diadema,17,0,3.37,0.17,0,NA,NA,0.0158489,0.0959,2.99,0.0647,LWR estimates for species & Genus-body shape,1.29,NA,NA,NA,NA,2,30,0,0,1,60,0,0,2015-05-08T00:00:00Z,14.77,0
+5841,Sargocentron microstoma,20,0,3.61,0.58,0,NA,NA,0.0151356,0.116,3.14,0.0745,LWR estimates for species & Genus-body shape,1,NA,NA,NA,NA,1,35,0,0,1,183,0,0,2015-05-08T00:00:00Z,16.61,0
+4906,Sargocentron punctatissimum,23,0,3.43,0.44,0,NA,NA,0.0128825,0.108,2.99,0.0717,LWR estimates for species & Genus-body shape,0.85,NA,NA,NA,NA,1,30,0,0,0,183,0,0,2015-05-08T00:00:00Z,19.06,0
+6507,Sargocentron spiniferum,56.61,0,3.6,0.39,0,NA,NA,0.0158489,0.103,3.01,0.0694,LWR estimates for species & Genus-body shape,0.37,NA,NA,NA,NA,13,60,0,0,1,122,0,0,2015-05-08T00:00:00Z,46.42,0
+4908,Sargocentron tiere,33,0,4.18,0.71,0,NA,NA,NA,NA,NA,NA,NA,0.61,NA,NA,NA,NA,1,20,0,0,1,183,0,0,2015-05-08T00:00:00Z,26.92,0
+4534,Saurida gracilis,39.04,0,4.19,0.427,0,NA,NA,0.00588844,0.0932,3.16,0.064,LWR estimates for species & Genus-body shape,0.53,NA,NA,NA,NA,1,12,0,0,0,135,0,0,2015-05-08T00:00:00Z,32,0
+5540,Scarus altipinnis,60,0,2,0,0,NA,NA,0.0125893,0.0986,3.02,0.0645,LWR estimates for species & Genus-body shape,0.25,NA,NA,NA,NA,6,26,0,0,1,50,0,0,2015-05-08T00:00:00Z,53.08,0
+5545,Scarus forsteni,55,0,2,0,0,NA,NA,0.0199526,0.175,3.01,0.0905,all LWR estimates for this body shape,0.34,NA,NA,NA,NA,5,17,0,0,3,30,0,0,2015-05-08T00:00:00Z,46.61,0
+5546,Scarus frenatus,47,0,2,0,0,NA,NA,0.0213796,0.126,3.08,0.0756,LWR estimates for species & Genus-body shape,0.8,NA,NA,NA,NA,3,14,0,0,1,25,0,0,2015-05-08T00:00:00Z,38.54,0
+5548,Scarus ghobban,90,0,2,0,0,NA,NA,0.0125893,0.103,3.01,0.0665,LWR estimates for species & Genus-body shape,0.21,NA,NA,NA,NA,5,20,0,0,2,36,0,0,2015-05-08T00:00:00Z,73.8,0
+4970,Scarus globiceps,45,0,2,0,0,NA,NA,NA,NA,NA,NA,NA,0.41,NA,NA,NA,NA,4,12,0,0,1,30,0,0,2015-05-08T00:00:00Z,36.18,0
+5550,Scarus niger,40,0,2,0,0,NA,NA,0.0158489,0.0995,3.08,0.0648,LWR estimates for species & Genus-body shape,0.66,NA,NA,NA,NA,2,11,0,0,0,20,0,0,2015-05-08T00:00:00Z,32.98,0
+5551,Scarus oviceps,35,0,2,0,0,NA,NA,NA,NA,NA,NA,NA,0.51,NA,NA,NA,NA,3,11,0,0,1,20,0,0,2015-05-08T00:00:00Z,30.29,0
+5553,Scarus psittacus,30,0,2,0,0,NA,NA,0.0162181,0.051,3.05,0.0252,LWR estimates for this species,0.81,NA,NA,NA,NA,4,14,0,0,2,25,0,0,2015-05-08T00:00:00Z,25,0
+5555,Scarus rubroviolaceus,70,0,2,0,0,NA,NA,0.0128825,0.126,3.04,0.0761,LWR estimates for species & Genus-body shape,0.27,NA,NA,NA,NA,4,19,0,0,1,36,0,0,2015-05-08T00:00:00Z,55.11,0
+4975,Scarus schlegeli,40,0,2,0,0,NA,NA,0.0186209,0.1,3.04,0.0652,LWR estimates for species & Genus-body shape,0.3,NA,NA,NA,NA,6,26,0,0,1,50,0,0,2015-05-08T00:00:00Z,34.8,0
+6438,Scarus tricolor,32.45,0,2,0,0,NA,NA,0.0141254,0.173,3.04,0.087,LWR estimates for this Genus-body shape,0.55,NA,NA,NA,NA,4,14,0,0,2,25,0,0,2015-05-08T00:00:00Z,26.6,0
+1951,Scomberoides lysan,110,0,4.04,0.6652,0,NA,NA,0.0138038,0.102,2.87,0.0702,LWR estimates for species & Subfamily-body shape,0.33,NA,NA,NA,NA,10,50,0,0,0,100,0,0,2015-05-08T00:00:00Z,87.89,0
+4921,Scorpaenopsis diabolus,30,0,4.2,0.73,0,NA,NA,NA,NA,NA,NA,NA,0.16,NA,NA,NA,NA,8,36,0,0,1,70,0,0,2015-05-08T00:00:00Z,25.27,0
+56815,Scorpaenopsis papuensis,25,0,4.17,0.75,0,NA,NA,0.0123027,0.164,3.02,0.0892,LWR estimates for this Subfamily-body shape,0.19,NA,NA,NA,NA,5,21,0,0,1,40,0,0,2015-05-08T00:00:00Z,20.55,0
+7450,Scuticaria tigrina,140,0,3.78,0.53,0,NA,NA,0.00102329,0.175,3.06,0.0896,all LWR estimates for this body shape,NA,NA,NA,NA,NA,9,17,0,0,8,25,0,0,2015-05-08T00:00:00Z,139.53,0
+16869,Sebastapistes tinkhami,10,0,3.82,0.65,0,NA,NA,0.0123027,0.164,3.02,0.0892,LWR estimates for this Subfamily-body shape,0.45,NA,NA,NA,NA,4,16,0,0,1,30,0,0,2015-05-08T00:00:00Z,8.2,0
+4614,Siganus argenteus,40,0,2,0,0,NA,NA,0.0141254,0.0987,3,0.0652,LWR estimates for species & Genus-body shape,0.55,NA,NA,NA,NA,1,30,0,0,0,40,0,0,2015-05-08T00:00:00Z,33.72,0
+4457,Siganus spinus,28,0,2.04,0.03,0,NA,NA,0.0190546,0.108,3.01,0.0704,LWR estimates for species & Genus-body shape,0.71,NA,NA,NA,NA,1,20,0,0,1,50,0,0,2015-05-08T00:00:00Z,23.63,0
+1235,Sphyraena barracuda,200,0,4.49,0.551,0,NA,NA,0.00851138,0.047,2.92,0.0252,LWR estimates for this species,0.12,NA,NA,NA,NA,3,30,0,0,1,100,0,0,2015-05-08T00:00:00Z,178.88,0
+7939,Sphyraena qenie,170,0,4.52,0.81,0,NA,NA,NA,NA,NA,NA,NA,0.1,NA,NA,NA,NA,11,50,0,0,1,100,0,0,2015-05-08T00:00:00Z,144.79,0
+4340,Stegastes albifasciatus,13,0,2,0,0,NA,NA,0.020893,0.142,2.98,0.0811,LWR estimates for species & Genus-body shape,0.53,NA,NA,NA,NA,0,2,0,0,0,4,0,0,2015-05-08T00:00:00Z,10.62,0
+4347,Stegastes fasciolatus,13.15,0,2.16,0.1,0,NA,NA,0.0151356,0.177,2.99,0.0971,LWR estimates for this Subfamily-body shape,0.53,NA,NA,NA,NA,1,5,0,0,1,30,0,0,2015-05-08T00:00:00Z,10.78,0
+4352,Stegastes nigricans,14,0,2.09,0,0,NA,NA,0.0251189,0.104,3.02,0.0675,LWR estimates for species & Genus-body shape,0.8,NA,NA,NA,NA,2,7,0,0,1,12,0,0,2015-05-08T00:00:00Z,11.46,0
+4351,Stegastes punctatus,15.86,0,2.03,0,0,NA,NA,0.0239883,0.106,2.96,0.0683,LWR estimates for species & Genus-body shape,0.44,NA,NA,NA,NA,1,3,0,0,1,5,0,0,2015-05-08T00:00:00Z,13,0
+5640,Stethojulis bandanensis,15,0,3.21,0.17,0,NA,NA,0.0102329,0.126,2.99,0.0766,LWR estimates for species & Genus-body shape,0.53,NA,NA,NA,NA,5,17,0,0,3,30,0,0,2015-05-08T00:00:00Z,13.12,0
+6029,Sufflamen bursa,25,0,3.42,0.41,0,NA,NA,NA,NA,NA,NA,NA,0.43,NA,NA,NA,NA,12,47,0,0,3,90,0,0,2015-05-08T00:00:00Z,21.8,0
+5842,Sufflamen chrysopterum,30,0,3.45,0.41,0,NA,NA,0.025704,0.116,2.99,0.076,LWR estimates for species & Family-body shape,0.36,NA,NA,NA,NA,4,16,0,0,1,30,0,0,2015-05-08T00:00:00Z,26.17,0
+5825,Synanceia verrucosa,48.8,0,4.2,0.73,0,NA,NA,0.0112202,0.173,3.04,0.0857,all LWR estimates for this body shape,NA,NA,NA,NA,NA,3,16,0,0,0,30,0,0,2015-05-08T00:00:00Z,40,0
+7981,Neosynchiropus ocellatus,8.9,0,3.24,0.45,0,NA,NA,0.011749,0.205,2.93,0.109,LWR estimates for this Family-body shape,1.02,NA,NA,NA,NA,1,30,0,0,1,30,0,0,2015-05-08T00:00:00Z,6.86,0
+7292,Synodus binotatus,18,0,3.98,0.7,0,NA,NA,NA,NA,NA,NA,NA,1.09,NA,NA,NA,NA,1,10,0,0,1,88,0,0,2015-05-08T00:00:00Z,15.25,0
+12620,Synodus dermatogenys,24,0,4.2,0.73,0,NA,NA,0.00537032,0.103,3.26,0.0688,LWR estimates for species & Genus-body shape,0.84,NA,NA,NA,NA,10,46,0,0,1,91,0,0,2015-05-08T00:00:00Z,21.29,0
+7943,Synodus jaculum,20,0,4.02,0.7,0,NA,NA,0.00380189,0.163,3.21,0.088,LWR estimates for this Genus-body shape,0.99,NA,NA,NA,NA,12,51,0,0,2,100,0,0,2015-05-08T00:00:00Z,17.66,0
+5398,Synodus variegatus,40,0,4.2,0.528,0,NA,NA,0.00416869,0.0895,3.29,0.0618,LWR estimates for species & Genus-body shape,0.43,NA,NA,NA,NA,5,60,0,0,3,121,0,0,2015-05-08T00:00:00Z,36.8,0
+5824,Taenianotus triacanthus,10,0,4.06,0.68,0,NA,NA,0.0123027,0.164,3.02,0.0892,LWR estimates for this Subfamily-body shape,0.45,NA,NA,NA,NA,5,20,0,0,5,135,0,0,2015-05-08T00:00:00Z,8.02,0
+5642,Thalassoma amblycephalum,19.52,0,3.1,0.24,0,NA,NA,NA,NA,NA,NA,NA,0.41,NA,NA,NA,NA,1,15,0,0,1,15,0,0,2015-05-08T00:00:00Z,16,0
+5643,Thalassoma hardwicke,20,0,3.5,0.37,0,NA,NA,0.00977237,0.0962,3.04,0.0638,LWR estimates for species & Genus-body shape,1,NA,NA,NA,NA,0,15,0,0,0,15,0,0,2015-05-08T00:00:00Z,15.95,0
+5646,Thalassoma lutescens,30,0,3.72,0.39,0,NA,NA,0.01,0.11,3.05,0.0697,LWR estimates for species & Genus-body shape,0.28,NA,NA,NA,NA,1,30,0,0,1,30,0,0,2015-05-08T00:00:00Z,23.44,0
+5647,Thalassoma purpureum,46,0,3.66,0.4,0,NA,NA,NA,NA,NA,NA,NA,0.19,NA,NA,NA,NA,1,6,0,0,0,10,0,0,2015-05-08T00:00:00Z,38.72,0
+5648,Thalassoma quinquevittatum,17,0,3.58,0.56,0,NA,NA,NA,NA,NA,NA,NA,0.47,NA,NA,NA,NA,1,5,0,0,0,40,0,0,2015-05-08T00:00:00Z,15.08,0
+5649,Thalassoma trilobatum,30,0,3.75,0.5776,0,NA,NA,0.00954993,0.175,3.04,0.0896,LWR estimates for this Genus-body shape,0.28,NA,NA,NA,NA,1,6,0,0,0,10,0,0,2015-05-08T00:00:00Z,24.8,0
+907,Triaenodon obesus,213,0,4.19,0.57,0,NA,NA,0.00363078,0.125,3.13,0.0746,LWR estimates for species & Family-body shape,0.14,NA,NA,NA,NA,8,40,0,0,1,330,0,0,2015-05-08T00:00:00Z,174.66,0
+977,Tylosurus crocodilus,150,0,4.43,0.433,0,NA,NA,0.00107152,0.114,3.11,0.0741,LWR estimates for species & Family-body shape,0.13,NA,NA,NA,NA,1,7,0,0,0,13,0,0,2015-05-08T00:00:00Z,132.07,0
+6575,Valenciennea strigata,18,0,3.98,0.57,0,NA,NA,0.00891251,0.168,3.07,0.0889,LWR estimates for this Subfamily-body shape,0.34,NA,NA,NA,NA,1,6,0,0,1,25,0,0,2015-05-08T00:00:00Z,14.31,0
+6478,Variola albimarginata,65,0,4.5,0.8,0,NA,NA,NA,NA,NA,NA,NA,0.17,NA,NA,NA,NA,12,90,0,0,4,200,0,0,2015-05-08T00:00:00Z,53.3,0
+5354,Variola louti,83,0,4.33,0.7,0,NA,NA,0.0102329,0.0946,3.03,0.0622,LWR estimates for species & Subfamily-body shape,0.18,NA,NA,NA,NA,15,141,0,0,3,300,0,0,2015-05-08T00:00:00Z,60,0
+4870,Wetmorella nigropinnata,8,0,3.5,0.37,0,NA,NA,0.0165959,0.201,3.01,0.109,LWR estimates for this Subfamily-body shape,0.94,NA,NA,NA,NA,4,19,0,0,1,36,0,0,2015-05-08T00:00:00Z,6.33,0
+5950,Zanclus cornutus,23,0,2.49,0,0,NA,NA,0.017378,0.207,3.06,0.113,LWR estimates for this Family-body shape,NA,NA,NA,NA,NA,5,182,0,0,3,182,0,0,2015-05-08T00:00:00Z,19.65,0
+6018,Zebrasoma flavescens,20,0,2,0,0,NA,NA,0.0251189,0.102,3,0.0689,LWR estimates for species & Subfamily-body shape,0.27,NA,NA,NA,NA,3,46,0,0,2,46,0,0,2015-05-08T00:00:00Z,17.36,0
+5951,Zebrasoma scopas,48.8,0,2,0,0,NA,NA,0.0281838,0.0439,2.99,0.0283,LWR estimates for this species,0.3,NA,NA,NA,NA,1,60,0,0,1,60,0,0,2015-05-08T00:00:00Z,40,0
+1266,Zebrasoma velifer,48.8,0,2,0,0,NA,NA,0.0263027,0.103,2.94,0.0688,LWR estimates for species & Subfamily-body shape,0.28,NA,NA,NA,NA,2,30,0,0,1,45,0,0,2015-05-08T00:00:00Z,40,0
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+4404,Cirripectes variolosus,10.86,0,2,0,0,NA,NA,0.0112202,0.179,3.01,0.0973,LWR estimates for this Subfamily-body shape,0.63,NA,NA,NA,NA,1,5,0,0,0,31,0,0,2015-05-08T00:00:00Z,8.9,0
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+22462,Gobiodon quinquestrigatus,5.49,0,3.44,0.45,0,NA,NA,0.0199526,0.175,3.01,0.0905,all LWR estimates for this body shape,1.03,NA,NA,NA,NA,0,2,0,0,1,15,0,0,2015-05-08T00:00:00Z,4.5,0
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+5618,Pseudocheilinus octotaenia,17.08,0,3.36,0.39,0,NA,NA,0.0144544,0.179,2.94,0.102,LWR estimates for this Subfamily-body shape,0.47,NA,NA,NA,NA,6,27,0,0,2,50,0,0,2015-05-08T00:00:00Z,14,0
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

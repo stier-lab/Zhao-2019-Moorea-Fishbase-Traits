@@ -1,0 +1,61 @@
+---
+title: "extract_from_fish_base"
+author: "Lily Zhao"
+date: "5/26/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+
+library(rfishbase)
+library(tidyverse)
+
+```
+
+## Version stability
+
+`rfishbase` relies on periodic cache releases.  The current database release is `17.07` (i.e. dating from July 2017).  Set the version of FishBase you wish to access by setting the environmental variable:
+
+```{r}
+Sys.setenv(FISHBASE_VERSION="17.07")
+```
+
+
+```{r}
+# Load Moorea fish species list _that has been cleaned to match fishbase with original species names maintained. 
+Mooreaspecies <- read_csv("MCR_Taxon_clean.csv")
+
+#renames column Bionomial to Species in bigfishshark so we can full join bigfishsshark with bigfishshark_trophic
+#Mooreafish <- rename(bigfishshark, Species = Binomial)
+
+#look to see which species names are validated. 
+matched <- validate_names(Mooreaspecies$Taxon_clean)
+unmatched <- Mooreaspecies$Taxon_clean[ !(Mooreaspecies$Taxon_clean %in% matched)]
+sapply(unmatched, validate_names)
+#61 unmatched names because they lack species and are only genus, with 333 validated
+
+#create datasets
+ecosystem_Moorea <- length_weight(species_list = Mooreaspecies$Taxon_clean)
+ecology_Moorea<- ecology(species_list = Mooreaspecies$Taxon_clean)
+trophic_Moorea <- estimate(species_list = Mooreaspecies$Taxon_clean)
+fooditems_Moorea <- fooditems(species_list = Mooreaspecies$Taxon_clean)
+maturity_Moorea<- maturity(species_list = Mooreaspecies$Taxon_clean)
+morphology_Moorea<- morphology(species_list = Mooreaspecies$Taxon_clean)
+popgrowth_Moorea<- popgrowth(species_list = Mooreaspecies$Taxon_clean)
+predators_Moorea<- predators(species_list = Mooreaspecies$Taxon_clean)
+
+#write csv files
+write_csv(ecosystem_Moorea, "ecosystem_Moorea.csv")
+write_csv(ecology_Moorea, "ecology_Moorea.csv")
+write_csv(trophic_Moorea, "trophic_Moorea.csv")
+write_csv(fooditems_Moorea, "fooditems_Moorea.csv")
+write_csv(maturity_Moorea, "maturity_Moorea.csv")
+write_csv(morphology_Moorea, "morphology_Moorea.csv")
+write_csv(popgrowth_Moorea, "popgrowth_Moorea.csv")
+write_csv(predators_Moorea, "predators_Moorea.csv")
+```
