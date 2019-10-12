@@ -1,4 +1,4 @@
-#Zhao-2019-Moorea-Fishbase-Traits 
+# Zhao-2019-Moorea-Fishbase-Traits 
 i.e. pulling trait data for Moorea Coral Reef LTER species from Fishbase. 
 
 This  is the README file for the pulling traits for each of the species seen on fish abundance LTER Moorea Coral Reef Survey data. 
@@ -33,7 +33,7 @@ predators_Moorea:
 
 morphology_Moorea"
 
-#Code
+# Code
 
 file name | description 
 ---|-----------
