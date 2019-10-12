@@ -19,19 +19,20 @@ fishbase.org/manual/FishBaseThe_ECOLOGY_Table.htm
 ecology_Moorea:
 https://www.fishbase.se/manual/english/fishbasethe_ecology_table.htm
 
-trophic_Moorea:
 
 fooditems_Moorea:
 https://www.fishbase.de/manual/english/fishbasethe_diet_table.htm
 
-maturity_Moorea:
-
-popgrowth_Moorea:
-
 predators_Moorea:
 #https://www.fishbase.in/manual/english/fishbasethe_predators_table.htm
 
-morphology_Moorea"
+
+
+additional datasets created are:
+trophic_Moorea
+maturity_Moorea
+popgrowth_Moorea
+morphology_Moorea
 
 # Code
 
