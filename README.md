@@ -7,7 +7,8 @@ This  is the README file for the pulling traits for each of the species seen on 
 
 
 To see how the rfishbase package works see these pdfs:
-see https://ropensci.org/pdfs/rfishbase.pdf and https://cran.r-project.org/web/packages/rfishbase/rfishbase.pdf
+see https://ropensci.org/pdfs/rfishbase.pdf and 
+https://cran.r-project.org/web/packages/rfishbase/rfishbase.pdf
 
 
 There is data available on each of the files created using the fishbase Manual. Below are the links to some of the pages of the manual that relate to the datasets created:
